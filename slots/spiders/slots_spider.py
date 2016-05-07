@@ -27,8 +27,22 @@ class SlotsSpider(scrapy.Spider):
     # Parses the required information from every subpage.
     def parse_page_contents(self, response):
         sel = response.xpath('//div[@class="overview"]/table/tbody/tr/td[@class="value"]/text()').extract()
+        sel1 = response.xpath('//*[@id="jumbo-internal"]/div/div[2]/span/text()').extract()
+        sel2 = response.xpath('//*[@id="jumbo-internal"]/div/div[2]/h1/text()').extract()
         item = SlotsItem()
-        item['released'] = sel[0]
-        item['slot_type'] = sel[1]
-        item['house_edge'] = sel[3]
+        item['title'] = sel2[0]
+        item['software'] = sel1[0]
+        item['slot_reels'] = sel[2]
+        item['volatility'] = sel[4]
+        item['coins_range'] = sel[5]
+
+        sel3 = response.xpath('//*[@id="review-wrapper"]/div[2]/div/div/div[1]/div[2]/table/tbody/tr[2]/td[2]/text()').extract()
+
+        item['jackpot'] = sel3[0]
+
+        sel4 = response.xpath('//*[@id="review-wrapper"]/div[2]/div/div/div[1]/div[2]/table/tbody/tr[9]/td[2]/text()').extract()
+
+        for element in sel4:
+            item['bonus'] = element
+
         yield item

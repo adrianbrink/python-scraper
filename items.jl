@@ -1,639 +1,474 @@
-{"released": "Video Slot", "slot_type": "5 Reels / 243 Paylines", "house_edge": "0.01 - 5.00"}
-{"released": "April 2016", "slot_type": "Video Slot", "house_edge": "3.23%"}
-{"released": "April 2016", "slot_type": "Video Slot", "house_edge": "5.5% - 3.5%"}
-{"released": "April 2014", "slot_type": "Video Slot", "house_edge": "3.78%"}
-{"released": "April 2016", "slot_type": "Video Slot", "house_edge": "5.05%"}
-{"released": "April 2015", "slot_type": "Video Slot", "house_edge": "5% - 4%"}
-{"released": "April 2016", "slot_type": "Video Slot", "house_edge": "3.09%"}
-{"released": "March 2015", "slot_type": "Video Slot", "house_edge": "3% - 2%"}
-{"released": "March 2016", "slot_type": "Video Slot", "house_edge": "6% to 2%%"}
-{"released": "March 2016", "slot_type": "Video Slot", "house_edge": "2.88%"}
-{"released": "March 2016", "slot_type": "Video Slot", "house_edge": "1.4%"}
-{"released": "March 2016", "slot_type": "Video Slot", "house_edge": "3.48%"}
-{"released": "March 2016", "slot_type": "Video Slot", "house_edge": "4.04%"}
-{"released": "March 2016", "slot_type": "Video Slot", "house_edge": "4.4%"}
-{"released": "March 2016", "slot_type": "Video Slot", "house_edge": "3.58%"}
-{"released": "February 2016", "slot_type": "Video Slot", "house_edge": "3.1%"}
-{"released": "February 2016", "slot_type": "Classic Slot", "house_edge": "8.03% to 3.98%"}
-{"released": "January 2016", "slot_type": "Video Slot", "house_edge": "5.96%"}
-{"released": "February 2015", "slot_type": "Video Slot", "house_edge": "3.4%"}
-{"released": "February 2016", "slot_type": "Video Slot", "house_edge": "3.3%"}
-{"released": "January 2016", "slot_type": "Video Slot", "house_edge": "4.3%"}
-{"released": "February 2016", "slot_type": "Classic Slot", "house_edge": "5 Reels / 40 Paylines"}
-{"released": "February 2016", "slot_type": "Video Slot", "house_edge": "3%"}
-{"released": "February 2016", "slot_type": "Video Slot", "house_edge": "5.94%"}
-{"released": "March 2016", "slot_type": "Video Slot", "house_edge": "Medium/High"}
-{"released": "January 2015", "slot_type": "Video Slot", "house_edge": "3.02%"}
-{"released": "January 2016", "slot_type": "Video Slot", "house_edge": "5.86%"}
-{"released": "January 2016", "slot_type": "Video Slot", "house_edge": "3%"}
-{"released": "January 2015", "slot_type": "Video Slot", "house_edge": "Level 1: 6.98% to Level 8 at 3.66%"}
-{"released": "February 2016", "slot_type": "Video Slot", "house_edge": "3% - 2%"}
-{"released": "February 2016", "slot_type": "Video Slot", "house_edge": "3% - 2%"}
-{"released": "January 2016", "slot_type": "Video Slot", "house_edge": "4.99 - 1.00%"}
-{"released": "February 2015", "slot_type": "Video Slot", "house_edge": "3.99%"}
-{"released": "December 2015", "slot_type": "Video Slot", "house_edge": "3.7%"}
-{"released": "Video Slot", "slot_type": "January 2015", "house_edge": "4.58%"}
-{"released": "December 2015", "slot_type": "Video Slot", "house_edge": "5.47 - 2.96%"}
-{"released": "December 2015", "slot_type": "Video Slot", "house_edge": "Medium"}
-{"released": "January 2016", "slot_type": "Video Slot", "house_edge": "4% - 3%"}
-{"released": "January 2016", "slot_type": "Video Slot", "house_edge": "4.21%"}
-{"released": "January 2016", "slot_type": "Video Slot", "house_edge": "10% - 3%"}
-{"released": "January 2016", "slot_type": "Video Slot", "house_edge": "3.79%"}
-{"released": "January 2016", "slot_type": "Video Slot", "house_edge": "Low"}
-{"released": "December 2015", "slot_type": "Video Slot", "house_edge": "4.86%"}
-{"released": "December 2015", "slot_type": "Video Slot", "house_edge": "3.95% - 7.5%"}
-{"released": "December 2015", "slot_type": "Video Slot", "house_edge": "3.34%"}
-{"released": "Video Slot", "slot_type": "Over 1 million", "house_edge": "Low"}
-{"released": "December 2015", "slot_type": "Video Slot", "house_edge": "3.78%"}
-{"released": "Video Slot", "slot_type": "From a few hundred to tens of thousands", "house_edge": "Medium"}
-{"released": "December 2015", "slot_type": "Video Slot", "house_edge": "3.99%"}
-{"released": "December 2015", "slot_type": "Video Slot", "house_edge": "2.7%"}
-{"released": "December 2015", "slot_type": "Video Slot", "house_edge": "3 Reels / 1024 Ways to Win"}
-{"released": "Video Slot", "slot_type": "Over 1,000 times your bet", "house_edge": "Medium"}
-{"released": "December 2015", "slot_type": "Video Slot", "house_edge": "5.62%"}
-{"released": "November 2015", "slot_type": "Video Slot", "house_edge": "4.58%"}
-{"released": "November 2015", "slot_type": "Video Slot", "house_edge": "4% / With bonus bet 3.77%"}
-{"released": "November 2015", "slot_type": "Video Slot", "house_edge": "4.05%"}
-{"released": "November 2015", "slot_type": "Classic Slot", "house_edge": "3.02%"}
-{"released": "December 2015", "slot_type": "Video Slot", "house_edge": "5.7%"}
-{"released": "December 2015 on mobile", "slot_type": "Video Slot", "house_edge": "3% - 4%"}
-{"released": "November 2015", "slot_type": "Video Slot", "house_edge": "4% - 3%"}
-{"released": "November 2015", "slot_type": "Video Slot", "house_edge": "2.99%"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "Medium/High"}
-{"released": "2013", "slot_type": "Video Slot", "house_edge": "2.88%"}
-{"released": "November 2015", "slot_type": "Video Slot", "house_edge": "3%"}
-{"released": "November 2015", "slot_type": "Video Slot", "house_edge": "0.03 / 15"}
-{"released": "December 2015", "slot_type": "Video Slot", "house_edge": "4% - 3%"}
-{"released": "November 2015", "slot_type": "Video Slot", "house_edge": "4% - 3%"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "Medium"}
-{"released": "November 2014", "slot_type": "Video Slot", "house_edge": "4% to 3%"}
-{"released": "November 2015", "slot_type": "Video Slot", "house_edge": "6.76% - 3.61%"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "3.93% - 1.99%%"}
-{"released": "November 2015", "slot_type": "Video Slot", "house_edge": "12.5 - 3.8%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "Medium"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "Low/Medium"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "4.3%"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "Low/Medium"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "2.93%"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "4.45%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 40 Paylines", "house_edge": "0.01 - 0.40"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "7.01% to 3.55%"}
-{"released": "October 2015", "slot_type": "Classic Slot", "house_edge": "Big Bet: 3% - No Big Bet: 5%"}
-{"released": "September 2015", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "3.59%"}
-{"released": "September 2015", "slot_type": "Video Slot", "house_edge": "7.58% - 3.57%"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "4.08%"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "4.54%"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "Medium/High"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "5 Reels / 15 Paylines"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "4% - 3%%"}
-{"released": "September 2015", "slot_type": "Video Slot", "house_edge": "4%"}
-{"released": "September 2015", "slot_type": "Video Slot", "house_edge": "5 Reels / 15 Paylines"}
-{"released": "September 2015", "slot_type": "Video Slot", "house_edge": "5 Reels / All Ways Pay"}
-{"released": "Video Slot", "slot_type": "Upwards of 1 million", "house_edge": "Medium"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "3.5%"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "3.52%"}
-{"released": "September 2015", "slot_type": "Video Slot", "house_edge": "2.81%"}
-{"released": "September 2015", "slot_type": "Video Slot", "house_edge": "4.04%"}
-{"released": "4% - 3", "slot_type": "Video Slot", "house_edge": "Medium"}
-{"released": "September 2015", "slot_type": "Video Slot", "house_edge": "Low/Medium"}
-{"released": "September 2015", "slot_type": "Video Slot", "house_edge": "5 Reels / 15 Paylines"}
-{"released": "September 2015", "slot_type": "Video Slot", "house_edge": "3.3%"}
-{"released": "September 2015", "slot_type": "Video Slot", "house_edge": "3.18%"}
-{"released": "September 2015", "slot_type": "Video Slot", "house_edge": "4.73%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 10 Paylines", "house_edge": "0.01 - 50"}
-{"released": "Video Slot", "slot_type": "5 Reels / 50 Paylines", "house_edge": "Low/Medium"}
-{"released": "August 2015", "slot_type": "Video Slot", "house_edge": "4% - 3%"}
-{"released": "August 2015", "slot_type": "Video Slot", "house_edge": "3.1%"}
-{"released": "August 2015", "slot_type": "Video Slot", "house_edge": "3.45%"}
-{"released": "August 2015", "slot_type": "Video Slot", "house_edge": "5 Reels / 25 Paylines"}
-{"released": "August 2015", "slot_type": "Video Slot", "house_edge": "6.63% - 3.95%"}
-{"released": "Video Slot", "slot_type": "From 1 to 5 Thousand", "house_edge": "Low"}
-{"released": "August 2015", "slot_type": "Video Slot", "house_edge": "(No big bet) 4.5% - (with big bet) 3.5%"}
-{"released": "August 2015", "slot_type": "Video Slot", "house_edge": "3.84%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 50 Paylines", "house_edge": "0.01 - 0.10"}
-{"released": "Classic Slot", "slot_type": "5 Reels / 5 Paylines", "house_edge": "Low/Medium"}
-{"released": "August 2015", "slot_type": "Video Slot", "house_edge": "8.01% - 3.94%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "0.01 - 0.25"}
-{"released": "August 2015", "slot_type": "Video Slot", "house_edge": "3.5%"}
-{"released": "August 2015", "slot_type": "Classic Slot", "house_edge": "5.01% - 4.92%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 243 Paylines", "house_edge": "Low"}
-{"released": "August 2015", "slot_type": "Video Slot", "house_edge": "4.03%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 40 Paylines", "house_edge": "Medium/High"}
-{"released": "July 2015", "slot_type": "Video Slot", "house_edge": "5% - 4%"}
-{"released": "June 2015", "slot_type": "Video Slot", "house_edge": "Low"}
-{"released": "June 2015", "slot_type": "Video Slot", "house_edge": "4% to 3%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 10 Paylines", "house_edge": "Low/Medium"}
-{"released": "May 2015", "slot_type": "Video Slot", "house_edge": "Low"}
-{"released": "July 2015", "slot_type": "Video Slot", "house_edge": "6.94%"}
-{"released": "July 2015", "slot_type": "Video Slot", "house_edge": "Low/Medium"}
-{"released": "July 2015", "slot_type": "Video Slot", "house_edge": "4.05%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 5 Paylines", "house_edge": "0.01 - 1.00"}
-{"released": "July 2015", "slot_type": "Video Slot", "house_edge": "5 Reels / 9 Paylines"}
-{"released": "July 2015", "slot_type": "Video Slot", "house_edge": "3.6%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "0.01 - 5.00"}
-{"released": "June 2015", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "June 2015", "slot_type": "Video Slot", "house_edge": "2.99%"}
-{"released": "June 2015", "slot_type": "Video Slot", "house_edge": "4.95% - 4.35%"}
-{"released": "June 2015", "slot_type": "Video Slot", "house_edge": "3.49%"}
-{"released": "June 2015", "slot_type": "Video Slot", "house_edge": "8% - 3.91%%"}
-{"released": "June 2015", "slot_type": "Video Slot", "house_edge": "8.01% - 3.94%"}
-{"released": "June 2015", "slot_type": "Video Slot", "house_edge": "3.01%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 10 Paylines", "house_edge": "Low/Medium"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "Low/Medium"}
-{"released": "Video Slot", "slot_type": "5 Reels / 17 Paylines", "house_edge": "Low/Medium"}
-{"released": "Video Slot", "slot_type": "5 Reels / 40 Paylines", "house_edge": "Low"}
-{"released": "May 2015", "slot_type": "Video Slot", "house_edge": "6%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "Medium/High"}
-{"released": "June 2015", "slot_type": "Video Slot", "house_edge": "4% to 3%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 100 Paylines", "house_edge": "Medium/High"}
-{"released": "June 2015", "slot_type": "Video Slot", "house_edge": "3.8%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 5 Paylines", "house_edge": "0.01 - 4.00"}
-{"released": "June 2015", "slot_type": "Video Slot", "house_edge": "5.64%"}
-{"released": "June 2015", "slot_type": "Video Slot", "house_edge": "4% - 3%"}
-{"released": "May 2015", "slot_type": "Video Slot", "house_edge": "3.49%"}
-{"released": "May 2015", "slot_type": "Video Slot", "house_edge": "4.96%"}
-{"released": "May 2015", "slot_type": "Video Slot", "house_edge": "6.77% - 3.44%"}
-{"released": "May 2015", "slot_type": "Video Slot", "house_edge": "8% - 3.84%"}
-{"released": "Video Slot", "slot_type": "About 200 times your bet", "house_edge": "Low"}
-{"released": "May 2015", "slot_type": "Video Slot", "house_edge": "4% - 3%"}
-{"released": "May 2015", "slot_type": "Video Slot", "house_edge": "Low/Medium"}
-{"released": "May 2015", "slot_type": "Video Slot", "house_edge": "4.3%"}
-{"released": "May 2015", "slot_type": "Video Slot", "house_edge": "4% - 3%"}
-{"released": "May 2015", "slot_type": "Video Slot", "house_edge": "7.44% - 3.67%"}
-{"released": "November 2014", "slot_type": "Video Slot", "house_edge": "4%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "High"}
-{"released": "April 2015", "slot_type": "Video Slot", "house_edge": "7.94% - 3.5%"}
-{"released": "April 2015", "slot_type": "Video Slot", "house_edge": "3.5%"}
-{"released": "April 2015", "slot_type": "Video Slot", "house_edge": "8% - 3.84%"}
-{"released": "April 2015", "slot_type": "Video Slot", "house_edge": "3.4%"}
-{"released": "April 2015", "slot_type": "Video Slot", "house_edge": "5 Reels / 50 Paylines"}
-{"released": "April 2015", "slot_type": "Video Slot", "house_edge": "Normal mode: 6% - Extra Win mode: 5%"}
-{"released": "April 2015", "slot_type": "Video Slot", "house_edge": "4.9%"}
-{"released": "April 2015", "slot_type": "Video Slot", "house_edge": "5 Reels / All Ways Pay"}
-{"released": "April 2015", "slot_type": "Video Slot", "house_edge": "3.9%"}
-{"released": "May 2015", "slot_type": "Video Slot", "house_edge": "4% normal, or if playing big bet, then 1%"}
-{"released": "May 2015", "slot_type": "Video Slot", "house_edge": "Low/Medium"}
-{"released": "March 2015", "slot_type": "Video Slot", "house_edge": "Low/Medium"}
-{"released": "April 2015", "slot_type": "Video Slot", "house_edge": "3.76%"}
-{"released": "Classic Slot", "slot_type": "Jackpot changes according to your bet level", "house_edge": "Low"}
-{"released": "April 2015", "slot_type": "Video Slot", "house_edge": "Medium"}
-{"released": "April 2015", "slot_type": "Video Slot", "house_edge": "5% - 4%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 40 Paylines", "house_edge": "Medium/High"}
-{"released": "April 2015", "slot_type": "Video Slot", "house_edge": "4.98%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 9 Paylines", "house_edge": "0.01 - 1.00"}
-{"released": "Video Slot", "slot_type": "5 Reels / 9 Paylines", "house_edge": "0.01 - 1.00"}
-{"released": "April 2015", "slot_type": "Video Slot", "house_edge": "2.66%"}
-{"released": "March 2015", "slot_type": "Video Slot", "house_edge": "4% to 3%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "Low"}
-{"released": "Video Slot", "slot_type": "5 Reels / 50 Paylines", "house_edge": "Medium/High"}
-{"released": "Video Slot", "slot_type": "5 Reels / 15 Paylines", "house_edge": "Medium"}
-{"released": "March 2015", "slot_type": "Video Slot", "house_edge": "3.25%"}
-{"released": "March 2015", "slot_type": "Video Slot", "house_edge": "3.16%"}
-{"released": "March 2015", "slot_type": "Video Slot", "house_edge": "5 Reels / 15 Paylines"}
-{"released": "Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "Low/Medium"}
-{"released": "March 2015", "slot_type": "Video Slot", "house_edge": "7.39 - 3.53%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "Low"}
-{"released": "February 2015", "slot_type": "Video Slot", "house_edge": "5.98%"}
-{"released": "February 2015", "slot_type": "Video Slot", "house_edge": "3.4%"}
-{"released": "February 2015", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "February 2015", "slot_type": "Classic Slot", "house_edge": "3 Reels / 9 Paylines"}
-{"released": "February 2014", "slot_type": "Video Slot", "house_edge": "5 Reels / 720 Ways to Win"}
-{"released": "February 2015", "slot_type": "Video Slot", "house_edge": "6.59 - 4.71%"}
-{"released": "February 2015", "slot_type": "Video Slot", "house_edge": "Low/Medium"}
-{"released": "March 2015", "slot_type": "Video Slot", "house_edge": "4% - 1%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "Medium"}
-{"released": "January 2015", "slot_type": "Video Slot", "house_edge": "4.73%"}
-{"released": "January 2015", "slot_type": "Video Slot", "house_edge": "5.24%"}
-{"released": "February 2015", "slot_type": "Video Slot", "house_edge": "4.69 - 4.38%"}
-{"released": "February 2015", "slot_type": "Video Slot", "house_edge": "4% - 3%"}
-{"released": "January 2015", "slot_type": "Video Slot", "house_edge": "6.47%"}
-{"released": "February 2015", "slot_type": "Video Slot", "house_edge": "Low/Medium"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "Medium"}
-{"released": "January 2015", "slot_type": "Video Slot", "house_edge": "5.29%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 50 Paylines", "house_edge": "0.01 - 1.00"}
-{"released": "January 2015", "slot_type": "Video Slot", "house_edge": "Low"}
-{"released": "January 2015", "slot_type": "Video Slot", "house_edge": "Medium"}
-{"released": "January 2015", "slot_type": "Video Slot", "house_edge": "8% - 4%"}
-{"released": "January 2015", "slot_type": "Video Slot", "house_edge": "Low/Medium"}
-{"released": "January 2015", "slot_type": "Video Slot", "house_edge": "Medium"}
-{"released": "January 2015", "slot_type": "Video Slot", "house_edge": "3.5%"}
-{"released": "January 2015", "slot_type": "Video Slot", "house_edge": "5.01%"}
-{"released": "January 2014", "slot_type": "Video Slot", "house_edge": "4.56%"}
-{"released": "December 2014", "slot_type": "Video Slot", "house_edge": "Low/Medium"}
-{"released": "December 2015", "slot_type": "Video Slot", "house_edge": "4.59%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 243 Paylines", "house_edge": "Medium"}
-{"released": "December 2014", "slot_type": "Video Slot", "house_edge": "7.35% - 3.8%"}
-{"released": "December 2014", "slot_type": "Video Slot", "house_edge": "5%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 100 Paylines", "house_edge": "High"}
-{"released": "Video Slot", "slot_type": "6 Reels / 192 Paylines", "house_edge": "Medium"}
-{"released": "Video Slot", "slot_type": "6 Reels / 4096 Ways to Win", "house_edge": "Medium/High"}
-{"released": "December 2014", "slot_type": "Classic Slot", "house_edge": "3 Reels / 5 Paylines"}
-{"released": "December 2014", "slot_type": "Video Slot", "house_edge": "4% - 3%"}
-{"released": "December 2014", "slot_type": "Video Slot", "house_edge": "Low/Medium"}
-{"released": "December 2014", "slot_type": "Video Slot", "house_edge": "5% - 6%"}
-{"released": "December 2014", "slot_type": "Video Slot", "house_edge": "5.95%"}
-{"released": "December 2014", "slot_type": "Video Slot", "house_edge": "4.13%"}
-{"released": "September 2014", "slot_type": "Video Slot", "house_edge": "4.52%"}
-{"released": "November 2014", "slot_type": "Video Slot", "house_edge": "3.27%"}
-{"released": "November 2014", "slot_type": "Video Slot", "house_edge": "5 Reels / 15 Paylines"}
-{"released": "November 2014", "slot_type": "Video Slot", "house_edge": "3%"}
-{"released": "November 2014", "slot_type": "Video Slot", "house_edge": "3.85%"}
-{"released": "November 2014", "slot_type": "Video Slot", "house_edge": "3.7%"}
-{"released": "November 2014", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "November 2014", "slot_type": "Video Slot", "house_edge": "4.21%"}
-{"released": "November 2014", "slot_type": "Video Slot", "house_edge": "4.4%"}
-{"released": "Classic Slot", "slot_type": "3 Reels / 40 Paylines", "house_edge": "0.01 - 2.00"}
-{"released": "October 2014", "slot_type": "Video Slot", "house_edge": "5 Reels / 15 Paylines"}
-{"released": "October 2014", "slot_type": "Video Slot", "house_edge": "3.2%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 15 Paylines", "house_edge": "Low"}
-{"released": "October 2014", "slot_type": "Video Slot", "house_edge": "7.5% to 5.02%"}
-{"released": "October 2014", "slot_type": "Video Slot", "house_edge": "4.55%"}
-{"released": "October 2014", "slot_type": "Video Slot", "house_edge": "4.72%"}
-{"released": "October 2014", "slot_type": "Video Slot", "house_edge": "4.1%"}
-{"released": "Classic Slot", "slot_type": "Varies according to bet size. Between 500x to 800x you bet.", "house_edge": "Low/Medium"}
-{"released": "Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "0.01 - 0.02"}
-{"released": "Video Slot", "slot_type": "Progressive Jackpot", "house_edge": "Low/Medium"}
-{"released": "September 2014", "slot_type": "Video Slot", "house_edge": "6.63% - 3.95%"}
-{"released": "September 2014", "slot_type": "Video Slot", "house_edge": "5 Reels / All Ways Pay"}
-{"released": "September 2014", "slot_type": "Classic Slot", "house_edge": "3.02%"}
-{"released": "October 2014", "slot_type": "Video Slot", "house_edge": "6%"}
-{"released": "Video Slot", "slot_type": "Progressive", "house_edge": "Low"}
-{"released": "October 2014", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "October 2014", "slot_type": "Video Slot", "house_edge": "3.13%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "0.01 - 0.02"}
-{"released": "August 2014", "slot_type": "Video Slot", "house_edge": "Low"}
-{"released": "Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "0.01 - 1.00"}
-{"released": "September 2014", "slot_type": "Video Slot", "house_edge": "4.7%"}
-{"released": "September 2014", "slot_type": "Video Slot", "house_edge": "Medium"}
-{"released": "Video Slot", "slot_type": "Progressive Jackpot", "house_edge": "3%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "Low"}
-{"released": "September 2014", "slot_type": "Video Slot", "house_edge": "5.74%"}
-{"released": "September 2014", "slot_type": "Video Slot", "house_edge": "5 Reels / 50 Paylines"}
-{"released": "September 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "September 2014", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "0.01 - 1.00"}
-{"released": "August 2014", "slot_type": "Video Slot", "house_edge": "4% - 3%"}
-{"released": "September 2014", "slot_type": "Video Slot", "house_edge": "6.01%"}
-{"released": "August 2014", "slot_type": "Video Slot", "house_edge": "5.95%"}
-{"released": "August 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "3%"}
-{"released": "August 2014", "slot_type": "Video Slot", "house_edge": "2%"}
-{"released": "August 2014", "slot_type": "Video Slot", "house_edge": "3%"}
-{"released": "August 2014", "slot_type": "Video Slot", "house_edge": "3.83%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 243 Paylines", "house_edge": "Low"}
-{"released": "Video Slot", "slot_type": "3 Progressive Jackpots", "house_edge": "3%"}
-{"released": "Video Slot", "slot_type": "Progressive Jackpot", "house_edge": "3.8%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "Low/Medium"}
-{"released": "August 2014", "slot_type": "Video Slot", "house_edge": "7.01% to 5.03%%"}
-{"released": "August 2014", "slot_type": "Video Slot", "house_edge": "5 Reels / 30 Paylines"}
-{"released": "July 2014", "slot_type": "Video Slot", "house_edge": "3.9%"}
-{"released": "July 2014", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "July 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "3.6%"}
-{"released": "July 2014", "slot_type": "Video Slot", "house_edge": "5 Reels / 30 Paylines"}
-{"released": "July 2014", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "July 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "8.01% - 4%"}
-{"released": "Classic Slot", "slot_type": "500x your bet", "house_edge": "6% - 4%"}
-{"released": "Video Slot", "slot_type": "500x your bet", "house_edge": "Low/Medium"}
-{"released": "Video Slot", "slot_type": "5 Reels / 10 Paylines", "house_edge": "0.03 - 3.00"}
-{"released": "Video Slot", "slot_type": "2000x your spin bet", "house_edge": "4.7%"}
-{"released": "June 2014", "slot_type": "Video Slot", "house_edge": "4.76%"}
-{"released": "June 2014", "slot_type": "Video Slot", "house_edge": "4.04%"}
-{"released": "Video Slot", "slot_type": "2,000x Your Bet", "house_edge": "4.61%"}
-{"released": "Video Slot", "slot_type": "Progressive into the tens of thousands", "house_edge": "3%"}
-{"released": "July 2014", "slot_type": "Video Slot", "house_edge": "7.13% - 3.95%"}
-{"released": "June 2014", "slot_type": "Video Slot", "house_edge": "5 Reels / 40 Paylines"}
-{"released": "July 2014", "slot_type": "Video Slot", "house_edge": "4.82%"}
-{"released": "July 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "Medium"}
-{"released": "May 2014", "slot_type": "Video Slot", "house_edge": "2.29%"}
-{"released": "June 2014", "slot_type": "Video Slot", "house_edge": "5%"}
-{"released": "June 2014", "slot_type": "Video Slot", "house_edge": "Medium/High"}
-{"released": "June 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "3%"}
-{"released": "June 2014", "slot_type": "Video Slot", "house_edge": "6.09%"}
-{"released": "June 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "5.95%"}
-{"released": "June 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "6.02%"}
-{"released": "June 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "5 Reels / 30 Paylines"}
-{"released": "May 2014", "slot_type": "Video Slot", "house_edge": "Low"}
-{"released": "May 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "5 Reels / 9 Paylines"}
-{"released": "April 2014", "slot_type": "Classic Slot", "house_edge": "3 Reels / 1 Payline"}
-{"released": "May 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "Medium/High"}
-{"released": "May 2014", "slot_type": "Video Slot", "house_edge": "3.25%"}
-{"released": "May 2014", "slot_type": "Video Slot", "house_edge": "4.77%"}
-{"released": "May 2014", "slot_type": "Video Slot", "house_edge": "3.9%"}
-{"released": "May 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "5 Reels / 25 Paylines"}
-{"released": "May 2014", "slot_type": "3D Video Slot", "house_edge": "2.37%"}
-{"released": "May 2014", "slot_type": "Video Slot", "house_edge": "3.28%"}
-{"released": "April 2014", "slot_type": "Video Slot", "house_edge": "4%"}
-{"released": "April 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "April 2014", "slot_type": "Video Slot", "house_edge": "5 Reels / 15 Paylines"}
-{"released": "Video Slot", "slot_type": "5 Reels / 10 Paylines", "house_edge": "Medium/High"}
-{"released": "April 2014", "slot_type": "Video Slot", "house_edge": "4.73%"}
-{"released": "April 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "3.35%"}
-{"released": "May 2014", "slot_type": "Video Slot", "house_edge": "3.5%"}
-{"released": "May 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "5 Reels / 40 Paylines"}
-{"released": "May 2014", "slot_type": "Classic Slot", "house_edge": "3 Reels / 5 Paylines"}
-{"released": "March 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "5 Reels / 25 Paylines"}
-{"released": "Video Slot", "slot_type": "5 Reels / 5 Paylines", "house_edge": "Low/Medium"}
-{"released": "March 2014", "slot_type": "Video Slot", "house_edge": "4.82%"}
-{"released": "April 2014", "slot_type": "Video Slot", "house_edge": "3%"}
-{"released": "April 2014 (on mobile)", "slot_type": "Classic Slot", "house_edge": "4%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "Low"}
-{"released": "Video Slot", "slot_type": "5 Reels / 10 Paylines", "house_edge": "Low/Medium"}
-{"released": "April 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "5.25%"}
-{"released": "April 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "4.91%"}
-{"released": "April 2014", "slot_type": "Video Slot", "house_edge": "3.6%"}
-{"released": "Video Slot", "slot_type": "12,800,000", "house_edge": "5.74%"}
-{"released": "March 2014 (on mobile)", "slot_type": "3D Video Slot", "house_edge": "5 Reels / 30 Paylines"}
-{"released": "March 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "5 Reels / 243 Paylines"}
-{"released": "Video Slot", "slot_type": "5 Reels / 10 Paylines", "house_edge": "Medium/High"}
-{"released": "March 2014", "slot_type": "3D Video Slot", "house_edge": "6.65%"}
-{"released": "March 2014", "slot_type": "Video Slot", "house_edge": "6.43% to 3.50%"}
-{"released": "March 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "4.48% to 4%"}
-{"released": "March 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "3.82%"}
-{"released": "March 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "5 Reels / 25 Paylines"}
-{"released": "April 2014", "slot_type": "Video Slot", "house_edge": "4.21%"}
-{"released": "Classic Slot", "slot_type": "600x your bet", "house_edge": "5%"}
-{"released": "Video Slot", "slot_type": "20,000", "house_edge": "4.8%"}
-{"released": "February 2014", "slot_type": "3D Video Slot", "house_edge": "5 Reels / 15 Paylines"}
-{"released": "March 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "Medium/High"}
-{"released": "March 2014", "slot_type": "Video Slot", "house_edge": "Low"}
-{"released": "March 2014", "slot_type": "Video Slot", "house_edge": "4.77%"}
-{"released": "February 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "7.48% - 3.82%"}
-{"released": "March 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "4%"}
-{"released": "March 2014", "slot_type": "3D Video Slot", "house_edge": "6.34%"}
-{"released": "February 2014", "slot_type": "Video Slot", "house_edge": "4%"}
-{"released": "Classic Slot", "slot_type": "3 Reels / 1 Payline", "house_edge": "Low"}
-{"released": "Video Slot", "slot_type": "5 Reels / 9 Paylines", "house_edge": "Medium"}
-{"released": "Video Slot", "slot_type": "5 Reels / 40 Paylines", "house_edge": "Medium"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "Low"}
-{"released": "Video Slot", "slot_type": "5 Reels / 10 Paylines", "house_edge": "Medium"}
-{"released": "February 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "5 Reels / 25 Paylines"}
-{"released": "February 2014", "slot_type": "Video Slot", "house_edge": "5.98%"}
-{"released": "February 2014", "slot_type": "Video Slot", "house_edge": "5%"}
-{"released": "February 2014", "slot_type": "Video Slot", "house_edge": "4%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 9 Paylines", "house_edge": "0.10 - 0.50"}
-{"released": "November 2013 (on mobile)", "slot_type": "3D Video Slot", "house_edge": "3.5%"}
-{"released": "December 2013 (on mobile)", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "January 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "4%"}
-{"released": "January 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "3.4%"}
-{"released": "January 2014", "slot_type": "Video Slot", "house_edge": "0.01 - 20.00"}
-{"released": "December 2013", "slot_type": "Video Slot", "house_edge": "5 Reels / 9 Paylines"}
-{"released": "December 2013", "slot_type": "Video Slot", "house_edge": "5 Reels / 9 Paylines"}
-{"released": "Video Slot", "slot_type": "200,000", "house_edge": "5%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "0.30 / 30"}
-{"released": "December 2013 (on mobile)", "slot_type": "Video Slot", "house_edge": "0.01 - 1.00"}
-{"released": "December 2013 (on mobile)", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "December 2013 (on mobile)", "slot_type": "Video Slot", "house_edge": "0.25 - 2.00"}
-{"released": "December 2013", "slot_type": "Video Slot", "house_edge": "0.01 - 2.00"}
-{"released": "December 2013", "slot_type": "Video Slot", "house_edge": "0.02 - 1.00"}
-{"released": "December 2013", "slot_type": "Video Slot", "house_edge": "0.01 - 2.00"}
-{"released": "November 2013", "slot_type": "Video Slot", "house_edge": "Low"}
-{"released": "November 2013", "slot_type": "Video Slot", "house_edge": "5.77%"}
-{"released": "November 2013", "slot_type": "Video Slot", "house_edge": "4.98%"}
-{"released": "November 2013 (mobile)", "slot_type": "Video Slot", "house_edge": "0.01 - 1.00"}
-{"released": "November 2013 (on mobile)", "slot_type": "Video Slot", "house_edge": "7.39 - 3.53%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "Low"}
-{"released": "November 2013 (on mobile)", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "December 2013 (Mobile)", "slot_type": "Video Slot", "house_edge": "5 Reels / 25 Paylines"}
-{"released": "November 2013", "slot_type": "3D Video Slot", "house_edge": "3.08%"}
-{"released": "Video Slot", "slot_type": "Progressive Jackpot", "house_edge": "0.01 - 0.05"}
-{"released": "Video Slot", "slot_type": "5 Reels / 243 Paylines", "house_edge": "2.43 / 1,215"}
-{"released": "Classic Slot", "slot_type": "3 Reels / 1 Payline", "house_edge": "0.25 / 0.75"}
-{"released": "Video Slot", "slot_type": "Progressive Jackpot", "house_edge": "0.01 - 0.05"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "0.20 / 50"}
-{"released": "October 2013", "slot_type": "Video Slot", "house_edge": "0.01 - 25.00"}
-{"released": "Video Slot", "slot_type": "5 Reels / 5 Paylines", "house_edge": "0.10 / 5"}
-{"released": "Classic Slot", "slot_type": "5 Reels / 5 Paylines", "house_edge": "0.10 - 5.00"}
-{"released": "October 2013", "slot_type": "Video Slot", "house_edge": "0.01 - 25.00"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "0.25 / 125"}
-{"released": "October 2013", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "October 2013", "slot_type": "Video Slot", "house_edge": "5.08%"}
-{"released": "October 2013 (on mobile)", "slot_type": "Video Slot", "house_edge": "4.97%"}
-{"released": "3D Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "Low"}
-{"released": "October 2013", "slot_type": "3D Video Slot", "house_edge": "2.97%"}
-{"released": "October 2013 (on mobile)", "slot_type": "Video Slot", "house_edge": "3.4%"}
-{"released": "Classic Slot", "slot_type": "Progressive Jackpot", "house_edge": "0.10 - 1.00"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "0.20 / 100 cash"}
-{"released": "October 2013 - on mobile", "slot_type": "Video Slot", "house_edge": "0.25 - 5.00"}
-{"released": "October 2013 (on mobile)", "slot_type": "Video Slot", "house_edge": "4.68%"}
-{"released": "October 2013 (on mobile)", "slot_type": "Video Slot", "house_edge": "0.01 - 2.00"}
-{"released": "October 2013", "slot_type": "Video Slot", "house_edge": "4.88%"}
-{"released": "Video Slot", "slot_type": "5,000 Coins", "house_edge": "5.49%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "0.20 / 40"}
-{"released": "October 2013 (on mobile)", "slot_type": "Video Slot", "house_edge": "3.84%"}
-{"released": "October 2013", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "October 2013 (on mobile)", "slot_type": "3D Video Slot", "house_edge": "0.01 - 0.50"}
-{"released": "Classic Slot", "slot_type": "8,000 jackpot", "house_edge": "0.01 - 1.00"}
-{"released": "Classic Slot", "slot_type": "3 Reels / 8 Paylines", "house_edge": "0.08 / 8"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "0.20 / 100"}
-{"released": "Classic Slot", "slot_type": "Progressive Jackpot", "house_edge": "1 .00 - 10.00"}
-{"released": "Video Slot", "slot_type": "$500,000", "house_edge": "3.84%"}
-{"released": "September 2013", "slot_type": "3D Video Slot", "house_edge": "5 Reels / 30 Paylines"}
-{"released": "Video Slot", "slot_type": "Progressive Jackpot", "house_edge": "3.14%"}
-{"released": "Video Slot", "slot_type": "Progressive Jackpot", "house_edge": "3.84%"}
-{"released": "September 2013", "slot_type": "Video Slot", "house_edge": "5 Reels / 25 Paylines"}
-{"released": "Video Slot", "slot_type": "20,000 Jackpot", "house_edge": "0.01 - 0.10"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "Low/Medium"}
-{"released": "Classic Slot", "slot_type": "8,000 Jackpot", "house_edge": "0.01 - 1.00"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "Low"}
-{"released": "3D Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "0.30 Coins / 75 Coins"}
-{"released": "Video Slot", "slot_type": "\u00a3/$/\u20ac 96,240", "house_edge": "3%"}
-{"released": "September 2013", "slot_type": "Classic Slot", "house_edge": "High"}
-{"released": "Video Slot", "slot_type": "5 Reels / 9 Paylines", "house_edge": "2.25 / 18"}
-{"released": "Classic Slot", "slot_type": "8,000 Jackpot", "house_edge": "0.01 - 1.00"}
-{"released": "September 2013", "slot_type": "Video Slot", "house_edge": "5 Reels / 40 Paylines"}
-{"released": "Video Slot", "slot_type": "3 Reels / 20 Paylines", "house_edge": "0.20 / 25"}
-{"released": "Video Slot", "slot_type": "No Jackpot", "house_edge": "3.92%"}
-{"released": "Video Slot", "slot_type": "No Jackpot", "house_edge": "5.75%"}
-{"released": "Classic Slot", "slot_type": "Progressive Jackpot", "house_edge": "3.29%"}
-{"released": "Video Slot", "slot_type": "15,000", "house_edge": "4.8%"}
-{"released": "Video Slot", "slot_type": "4,000 coins", "house_edge": "Low/Medium"}
-{"released": "Video Slot", "slot_type": "5 Reels / 40 Paylines", "house_edge": "Medium"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "Medium"}
-{"released": "Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "Medium"}
-{"released": "Video Slot", "slot_type": "25 Million", "house_edge": "0.01 - 1,000"}
-{"released": "Classic Slot", "slot_type": "5,000", "house_edge": "0.02 to 1.00"}
-{"released": "Video Slot", "slot_type": "25,000,000", "house_edge": "7.91% to 4.97%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 50 Paylines", "house_edge": "Medium"}
-{"released": "Video Slot", "slot_type": "5,000", "house_edge": "0.25 - 5 .00 Coins"}
-{"released": "August 6th 2013", "slot_type": "Classic Slot", "house_edge": "4.25%"}
-{"released": "Video Slot", "slot_type": "12,500 Coins", "house_edge": "4.10%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 99 Paylines", "house_edge": "Medium"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "0.20 Coins / 40.00 Coins"}
-{"released": "Video Slot", "slot_type": "5,000x your bet", "house_edge": "5.07%"}
-{"released": "Video Slot", "slot_type": "20,000", "house_edge": "0.01 to 20.00"}
-{"released": "Video Slot", "slot_type": "3,645,000 Coins", "house_edge": "4%"}
-{"released": "3D Video Slot", "slot_type": "2,500 Coins", "house_edge": "0.02 - 1.00"}
-{"released": "3D Video Slot", "slot_type": "1,250 Coins", "house_edge": "2.73%"}
-{"released": "Video Slot", "slot_type": "5,000 Coins", "house_edge": "3.24%"}
-{"released": "Video Slot", "slot_type": "2,500,000 Coins", "house_edge": "4%"}
-{"released": "July 2013", "slot_type": "Video Slot", "house_edge": "5 Reels / 10 Paylines"}
-{"released": "Video Slot", "slot_type": "5 Reels / 9 Paylines", "house_edge": "Low/Medium"}
-{"released": "Video Slot", "slot_type": "Progressive Jackpot", "house_edge": "0.10 to 20.00"}
-{"released": "Video Slot", "slot_type": "Progressive", "house_edge": "0.20 - 100.00"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "0.25 / 25"}
-{"released": "3D Video Slot", "slot_type": "40,000 Coins", "house_edge": "0.01 up to 0.50"}
-{"released": "June 2013", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "Video Slot", "slot_type": "Progressive", "house_edge": "0.01 to 5.00"}
-{"released": "3D Video Slot", "slot_type": "12,500 Coins", "house_edge": "0.02 to 0.50"}
-{"released": "Video Slot", "slot_type": "5 Reels / 15 Paylines", "house_edge": "Medium"}
-{"released": "June 2013", "slot_type": "Video Slot", "house_edge": "3%"}
-{"released": "Video Slot", "slot_type": "5,000 Coins", "house_edge": "0.01 to 2.00"}
-{"released": "June 2013", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "Video Slot", "slot_type": "105,000 Coins", "house_edge": "3.6%"}
-{"released": "Classic Slot", "slot_type": "Maximum of 4,500", "house_edge": "0.10 - 1.00"}
-{"released": "Classic Slot", "slot_type": "4,500", "house_edge": "0.10 - 1.00"}
-{"released": "Classic Slot", "slot_type": "4,500 Coins", "house_edge": "0.01 - 1.00"}
-{"released": "Classic Slot", "slot_type": "4,500 Coins", "house_edge": "0.01  - 1.00"}
-{"released": "Classic Slot", "slot_type": "3 Reels / 1 Payline", "house_edge": "0.10 / 1.00"}
-{"released": "Classic Slot", "slot_type": "3 Reels / 3 Paylines", "house_edge": "0.30 / 9.90"}
-{"released": "Video Slot", "slot_type": "Progressive Jackpot", "house_edge": "0.50"}
-{"released": "Video Slot", "slot_type": "250,000", "house_edge": "0.50 - 250.00"}
-{"released": "Video Slot", "slot_type": "5,000 Coins", "house_edge": "0.25 - 100.00"}
-{"released": "Video Slot", "slot_type": "5 Reels / 9 Paylines", "house_edge": "Medium"}
-{"released": "Video Slot", "slot_type": "30,000 Coins", "house_edge": "3.83%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 9 Paylines", "house_edge": "Medium"}
-{"released": "Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "0.02 - 1.00"}
-{"released": "Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "0.02 - 1.00"}
-{"released": "Video Slot", "slot_type": "5,000 Coins", "house_edge": "0.10 - 70.00"}
-{"released": "Video Slot", "slot_type": "70,000 Coins", "house_edge": "0.10 - 10.00"}
-{"released": "Video Slot", "slot_type": "Progressive Jackpot", "house_edge": "2.56%"}
-{"released": "Classic Slot", "slot_type": "9,000 Coins", "house_edge": "0.01 - 0.50"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "25 Free Spins / 3X Multiplier"}
-{"released": "Video Slot", "slot_type": "Progessive Jackpot Slot", "house_edge": "0.25 - 250.00"}
-{"released": "Video Slot", "slot_type": "5 Reels / 9 Paylines", "house_edge": "Medium/High"}
-{"released": "Video Slot", "slot_type": "5 Reels / 243 Paylines", "house_edge": "Low/Medium"}
-{"released": "Video Slot", "slot_type": "225,000 Coins plus 4 Progressive Jackpots", "house_edge": "6%"}
-{"released": "Video Slot", "slot_type": "5,000 Coins", "house_edge": "High"}
-{"released": "Classic Slot", "slot_type": "Progressive Jackpot", "house_edge": "0.10 - 1.00"}
-{"released": "Video Slot", "slot_type": "5,000 Coins", "house_edge": "0.10 - 50.00"}
-{"released": "Video Slot", "slot_type": "5 Reels / 15 Paylines", "house_edge": "Low"}
-{"released": "Video Slot", "slot_type": "Progressive Jackpot", "house_edge": "0.20 - 3.00"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "20 Free Spins / 3X Multiplier"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "No Free Spins or Multipliers"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "0.25 / 50.00"}
-{"released": "Classic Slot", "slot_type": "Progressive", "house_edge": "0.25 - 0.75"}
-{"released": "Classic Slot", "slot_type": "Progressive Jackpot", "house_edge": "0.25 - 0.75"}
-{"released": "Classic Slot", "slot_type": "Progressive Jackpot", "house_edge": "0.25 - 0.75"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "Medium"}
-{"released": "Video Slot", "slot_type": "25,000 Coins", "house_edge": "0.1 - 0.5"}
-{"released": "Classic Slot", "slot_type": "3 Reels / 1 Payline", "house_edge": "No Free Spins or Multipliers"}
-{"released": "Classic Slot", "slot_type": "3 Reels / 1 Payline", "house_edge": "0.25 / 0.75"}
-{"released": "Video Slot", "slot_type": "12,500 Coins", "house_edge": "5.02%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "10 Free Spins /  3X Multiplier"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "Medium"}
-{"released": "Video Slot", "slot_type": "10,000 Coins", "house_edge": "3%"}
-{"released": "Classic Slot", "slot_type": "5 Reels / 5 Paylines", "house_edge": "No Free Spins or Multipliers"}
-{"released": "Video Slot", "slot_type": "10,000 Coins", "house_edge": "3%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 15 Paylines", "house_edge": "Low"}
-{"released": "Video Slot", "slot_type": "10,000 Coins", "house_edge": "0.25 - 100.00"}
-{"released": "Video Slot", "slot_type": "5,000 Coins", "house_edge": "0.01 -2.00"}
-{"released": "Video Slot", "slot_type": "5,000 Coins", "house_edge": "0.10 - 40.00"}
-{"released": "Video Slot", "slot_type": "5,000 Coins", "house_edge": "6%"}
-{"released": "Video Slot", "slot_type": "2,500 Coins", "house_edge": "3.83%"}
-{"released": "Video Slot", "slot_type": "2,500 Coins", "house_edge": "6%"}
-{"released": "Video Slot", "slot_type": "Progressive Jackpot", "house_edge": "0.02 - 1.00"}
-{"released": "Classic Slot", "slot_type": "Progressive Jackpot", "house_edge": "0.25 - 0.75"}
-{"released": "Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "Low/Medium"}
-{"released": "Video Slot", "slot_type": "5 Reels / 15 Paylines", "house_edge": "0.15 / 75"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "Yes"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "0.01 to 0.25"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "Low/Medium"}
-{"released": "Video Slot", "slot_type": "3 Reels / 5 Paylines", "house_edge": "0.25 / 50"}
-{"released": "Video Slot", "slot_type": "5 Reels / 10 Paylines", "house_edge": "Low"}
-{"released": "Video Slot", "slot_type": "5 Reels / 99 Paylines", "house_edge": "Low/Medium"}
-{"released": "Video Slot", "slot_type": "5000 Coins", "house_edge": "0.25 - 50.00"}
-{"released": "November 2015", "slot_type": "Video Slot", "house_edge": "5.38%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "Low/Medium"}
-{"released": "January 2015", "slot_type": "Video Slot", "house_edge": "Medium"}
-{"released": "December 2015", "slot_type": "Video Slot", "house_edge": "3.9%"}
-{"released": "January 2015", "slot_type": "Video Slot", "house_edge": "3.3%"}
-{"released": "December 2015", "slot_type": "Video Slot", "house_edge": "5 Reels / 15 Paylines"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "Medium"}
-{"released": "March 2016", "slot_type": "Video Slot", "house_edge": "5 Reels / 30 Paylines"}
-{"released": "April 2016", "slot_type": "Video Slot", "house_edge": "4.05%"}
-{"released": "March 2016", "slot_type": "Video Slot", "house_edge": "4% - 3%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 15 Paylines", "house_edge": "Low/Medium"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "Medium/High"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "Low/Medium"}
-{"released": "June 2015", "slot_type": "Video Slot", "house_edge": "3.8%"}
-{"released": "June 2015", "slot_type": "Video Slot", "house_edge": "3.44%"}
-{"released": "May 2015", "slot_type": "Video Slot", "house_edge": "4.43%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "Medium"}
-{"released": "May 2015", "slot_type": "Video Slot", "house_edge": "3.31%"}
-{"released": "May 2015", "slot_type": "Video Slot", "house_edge": "5% - 4%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "Low/Medium"}
-{"released": "July 2015", "slot_type": "Video Slot", "house_edge": "Low"}
-{"released": "July 2015", "slot_type": "Video Slot", "house_edge": "3.44% - 3.42%"}
-{"released": "July 2015", "slot_type": "Video Slot", "house_edge": "5% - 4%"}
-{"released": "September 2015", "slot_type": "Video Slot", "house_edge": "2.32%"}
-{"released": "July 2015", "slot_type": "Video Slot", "house_edge": "2.4%"}
-{"released": "July 2015", "slot_type": "Video Slot", "house_edge": "5.5% - 3.5%"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "3.31%"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "8% - 4%%"}
-{"released": "October 2015", "slot_type": "Video Slot", "house_edge": "4%"}
-{"released": "September 2015", "slot_type": "Video Slot", "house_edge": "5 Reels / 15 Paylines"}
-{"released": "July 2014", "slot_type": "Video Slot", "house_edge": "5%"}
-{"released": "November 2014", "slot_type": "Video Slot", "house_edge": "7.6% - 3.77%"}
-{"released": "August 2015", "slot_type": "Video Slot", "house_edge": "4% - 3%"}
-{"released": "July 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "4% to 3%"}
-{"released": "September 2014", "slot_type": "Video Slot", "house_edge": "Medium"}
-{"released": "October 2014", "slot_type": "Video Slot", "house_edge": "4.96%"}
-{"released": "November 2014", "slot_type": "Video Slot", "house_edge": "5%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 100 Paylines", "house_edge": "Medium"}
-{"released": "December 2014", "slot_type": "Video Slot", "house_edge": "3.25%"}
-{"released": "February 2015", "slot_type": "Video Slot", "house_edge": "3.49%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 25 Paylines", "house_edge": "Medium/High"}
-{"released": "Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "0.01 - 1.00"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "Low"}
-{"released": "Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "Medium/High"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "Low"}
-{"released": "Video Slot", "slot_type": "25,000", "house_edge": "3.94%"}
-{"released": "November 2013", "slot_type": "3D Video Slot", "house_edge": "5 Reels / 30 Paylines"}
-{"released": "September 2014", "slot_type": "Video Slot", "house_edge": "3.9%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "Medium/High"}
-{"released": "April 2015", "slot_type": "Video Slot", "house_edge": "5% to 4%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 40 Paylines", "house_edge": "Low"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "0.20 / 500"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "0.20 / 500"}
-{"released": "December 2013 (on mobile)", "slot_type": "Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "December 2013 (on mobile)", "slot_type": "Video Slot", "house_edge": "5.46%"}
-{"released": "January 2014", "slot_type": "Video Slot", "house_edge": "5 Reels / 25 Paylines"}
-{"released": "October 2013 (on mobile)", "slot_type": "3D Video Slot", "house_edge": "5 Reels / 20 Paylines"}
-{"released": "Classic Slot", "slot_type": "3 Reels / 5 Paylines", "house_edge": "Medium/High"}
-{"released": "March 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "3.25%"}
-{"released": "February 2014", "slot_type": "Video Slot", "house_edge": "2%"}
-{"released": "Video Slot", "slot_type": "121,500 in cash", "house_edge": "3%"}
-{"released": "March 2014", "slot_type": "3D Video Slot", "house_edge": "5.5%"}
-{"released": "April 2014", "slot_type": "Video Slot", "house_edge": "4.16%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 243 Paylines", "house_edge": "Medium"}
-{"released": "April 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "3.3%"}
-{"released": "June 2014 (on mobile)", "slot_type": "Video Slot", "house_edge": "3.3%"}
-{"released": "Video Slot", "slot_type": "20,000 your line bet", "house_edge": "5.50%"}
-{"released": "Video Slot", "slot_type": "500x your overall bet", "house_edge": "4.93%"}
-{"released": "June 2014", "slot_type": "Video Slot", "house_edge": "2.4%"}
-{"released": "April 2014", "slot_type": "Video Slot", "house_edge": "6.2%"}
-{"released": "Video Slot", "slot_type": "2,500 Coins", "house_edge": "4.04%"}
-{"released": "Video Slot", "slot_type": "6,000,000 Coins", "house_edge": "4%"}
-{"released": "Video Slot", "slot_type": "Progressive Jackpot", "house_edge": "0.01 - 25.00"}
-{"released": "3D Video Slot", "slot_type": "12,500 Coins", "house_edge": "0.01 up to 1.00"}
-{"released": "Video Slot", "slot_type": "60,000 Coins", "house_edge": "0.01 to 0.20"}
-{"released": "Video Slot", "slot_type": "5 Reels / 30 Paylines", "house_edge": "Low/Medium"}
-{"released": "Video Slot", "slot_type": "No Jackpot", "house_edge": "0.25 - 50.00"}
-{"released": "Video Slot", "slot_type": "25, 000, 000 Coins", "house_edge": "4.98%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 9 Paylines", "house_edge": "Low"}
-{"released": "3D Video Slot", "slot_type": "Progressive Jackpot", "house_edge": "4.66%"}
-{"released": "Classic Slot", "slot_type": "8,000 Jackpot", "house_edge": "3.08%"}
-{"released": "October 2013 (mobile)", "slot_type": "Video Slot", "house_edge": "4%"}
-{"released": "October 2013 (mobile)", "slot_type": "3D Video Slot", "house_edge": "0.01 - 0.50"}
-{"released": "Classic Slot", "slot_type": "3 Reels / 5 Paylines", "house_edge": "Medium"}
-{"released": "November 2013", "slot_type": "Classic Slot", "house_edge": "1.00 - 20.00"}
-{"released": "Video Slot", "slot_type": "5 Reels / 5 Paylines", "house_edge": "Low/Medium"}
-{"released": "November 2013 (on mobile)", "slot_type": "Video Slot", "house_edge": "7.33%"}
-{"released": "Video Slot", "slot_type": "5000 coins", "house_edge": "4.58%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "0.20 / 25"}
-{"released": "Video Slot", "slot_type": "100,000 Coins", "house_edge": "3.9%"}
-{"released": "Video Slot", "slot_type": "15,000 Coins", "house_edge": "3.1%"}
-{"released": "Video Slot", "slot_type": "560,000 Coins", "house_edge": "4%"}
-{"released": "Video Slot", "slot_type": "150,000 Coins", "house_edge": "4%"}
-{"released": "Video Slot", "slot_type": "75,000 Coins", "house_edge": "3.6%"}
-{"released": "Video Slot", "slot_type": "5 Reels / 20 Paylines", "house_edge": "Low/Medium"}
+{"jackpot": "Classic Slot", "title": "Golden Caravan Slot Review", "bonus": "Starts at 10 Free Spins / Starts with 2x Multiplier", "coins_range": "0.01 - 2.00", "volatility": "High", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Classic Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Sails of Gold Slot Review", "bonus": "Starts at 10 Free Spins / No Multipliers", "coins_range": "0.01 - 2.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Jimi Hendrix Slot Review", "bonus": "Up to 12 Free Spins / Wild Reels, or Extra Wilds", "coins_range": "0.01 - 1.00", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "King Kong (NextGen) Slot Review", "bonus": "Free Spins, Mystery Prizes, Expanded Wild", "coins_range": "0.01 - 2.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Jason\u2019s Quest Slot Review", "bonus": "Up to 10 Free Spins / 3x Multiplier or Instant Wins", "coins_range": "0.01 - 2.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Genesis"}
+{"jackpot": "Video Slot", "title": "More Monkeys Slot Review", "bonus": "Wilds, Scatters, Free Spins, 3 Jackpots", "coins_range": "0.01 - 1.25", "volatility": "Low/Medium", "slot_reels": "5 Reels / 1024 Ways to Win", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Neon Reels Slot Review", "bonus": "10 Free Spins / Up to 3x Multiplier on the Wild", "coins_range": "0.01 - 1.00", "volatility": "Low/Medium", "slot_reels": "Progressive - a few hundreds to a few thousands", "software": "Mobile Video Slot by iSoftBet"}
+{"jackpot": "Video Slot", "title": "The Rift Slot Review", "bonus": "Re-spins, Extra Wilds, Sticky Wilds, Free Spins, Scatters", "coins_range": "0.10 / 100", "volatility": "Low/Medium", "slot_reels": "5 Reels / 17 Paylines", "software": "Mobile Video Slot by Thunderkick"}
+{"jackpot": "Video Slot", "title": "Wizard of Oz Ruby Slippers Slot Review", "bonus": "Free Spins, Multipliers, Instant Cash, Click Me Bonus", "coins_range": "0.30 - 1.00", "volatility": "Medium/High", "slot_reels": "3 Reels / 30 Paylines", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Video Slot", "title": "1429 Uncharted Seas Slot Review", "bonus": "Expanding Wilds, Free Spins", "coins_range": "0.10 / 100", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Thunderkick"}
+{"jackpot": "Video Slot", "title": "A Dragon\u2019s Story Slot Review", "bonus": "10 Free Spins / 2x Multipliers", "coins_range": "0.01 - 2.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Witch Pickings Slot Review", "bonus": "Wilds, Scatters, Free Spins, Multipliers, Symbol Prizes", "coins_range": "40 / 80", "volatility": "0.01 - 2.00", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "The Wild Chase Slot Review", "bonus": "10 Free Spins / 1x Guaranteed Wild on Each Spin", "coins_range": "0.01", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Quickspin"}
+{"jackpot": "Video Slot", "title": "Aloha Cluster Pays Slot Review", "bonus": "Up to 12 Free Spins / Lower symbols removed", "coins_range": "0.01 - 2.00", "volatility": "Low/Medium", "slot_reels": "6 Reels / All Ways Pay", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Potion Factory Slot Review", "bonus": "Free Spins, Expanded Wilds, Sticky Wilds, Instant cash, Click Me Bonus", "coins_range": "0.01 - 0.50", "volatility": "Medium/High", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by Leander Games"}
+{"jackpot": "Video Slot", "title": "Bar Bar Black Sheep Slot Review", "bonus": "Up to 20 Free Spins / 3x Multiplier", "coins_range": "0.01 - 0.50", "volatility": "Low", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Cloud Quest Slot Review", "bonus": "Free Spins, Wilds, Multipliers, Scatters, Instant Cash", "coins_range": "0.10 / 100 (not at all casinos)", "volatility": "Low/Medium", "slot_reels": "5 Reels / All Ways Pay", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Rainbow Riches Pick n Mix Slot Review", "bonus": "Up to 30 Free Spins / No Multipliers", "coins_range": "0.01 - 25", "volatility": "Low/Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Video Slot", "title": "Toki Time Slot Review", "bonus": "Expanded Wilds, Re-spins, Pays Both Ways", "coins_range": "0.10 / 200", "volatility": "Low/Medium", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by Thunderkick"}
+{"jackpot": "Video Slot", "title": "Fruit Warp Slot Review", "bonus": "Fruit Warping, & Fruit Modes", "coins_range": "0.10 / 100", "volatility": "Medium", "slot_reels": "5 Reels / All Ways Pay", "software": "Mobile Video Slot by Thunderkick"}
+{"jackpot": "Video Slot", "title": "Wild Orient Slot Review", "bonus": "15 Free Spins / 3x Multipliers", "coins_range": "0.01 - 0.50", "volatility": "Medium", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Classic Slot", "title": "MegaJackpots Isle O\u2019Plenty Slot Review", "bonus": "Up to 24 Free Spins / Guaranteed Wild Rush", "coins_range": "Low", "volatility": "9.01% - 7.03%%", "slot_reels": "Seeds 500,000, Goes up to about 800,000 to 1 Million usually", "software": "Mobile Classic Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Frogs \u2018n Flies Slot Review", "bonus": "Wilds, Scatters, Free spins", "coins_range": "0.01 - 0.10", "volatility": "Medium", "slot_reels": "5 Reels / 1024 Ways to Win", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Samba Carnival Slot Review", "bonus": "None", "coins_range": "0.01 - 0.25", "volatility": "Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Dragon Dance Slot Review", "bonus": "15 Free Spins / 3x Multipliers", "coins_range": "0.01 - 0.50", "volatility": "Medium", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Bikini Party Slot Review", "bonus": "15 Free Spins / 3x Multiplier", "coins_range": "0.01 - 0.50", "volatility": "Medium", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Classic Slot", "title": "Hot Roll Super Times Pay Slot Review", "bonus": "Wilds, Multipliers, Dice Round", "coins_range": "0.01 - 10", "volatility": "Low", "slot_reels": "3 Reels / 20 Paylines", "software": "Mobile Classic Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Fantasini Master of Mystery Slot Review", "bonus": "No Free Spins or Multipliers", "coins_range": "0.01 - 0.05", "volatility": "Medium/High", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Epic Monopoly II Slot Review", "bonus": "Up to 20 Free Spins / Transfering Wilds", "coins_range": "0.01 - 1.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 100 Paylines", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Video Slot", "title": "Genies Touch Slot Review", "bonus": "10 Free Spins / More Wilds and Lamps", "coins_range": "0.01 - 5.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Quickspin"}
+{"jackpot": "Video Slot", "title": "Cash Cave Slot Review", "bonus": "Up to 15 Free Spins / Increasing Multipliers", "coins_range": "0.01 - 0.75", "volatility": "Medium/High", "slot_reels": "5 Reels / 100 Paylines", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Drive Multiplier Mayhem Slot Review", "bonus": "Starts with 10 Free Spins / Wild Overlays", "coins_range": "0.01 - 0.50", "volatility": "High", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Clash of Queens Slot Review", "bonus": "Up to 8 Free Spins / Expanding Wilds", "coins_range": "0.01 - 10", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Genesis"}
+{"jackpot": "Video Slot", "title": "Action Bank Slot Review", "bonus": "Up to 30 free spins / Double symbols", "coins_range": "0.01 - 20", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Barcrest"}
+{"jackpot": "Video Slot", "title": "Nemo\u2019s Voyage Slot Review", "bonus": "Multipliers, Free Spins, Stacked Wilds, Wild Reels", "coins_range": "0.01 - 5.00", "volatility": "Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Video Slot", "title": "Little Red Riding Reels Slot Review", "coins_range": "0.75 / 99", "software": "Mobile Video Slot by mFortune", "slot_reels": "5 Reels / 15 Paylines", "volatility": "0.05 - 6.60"}
+{"jackpot": "Video Slot", "title": "Guns n Roses Slot Review", "bonus": "10 Free Spins / Stacked wild covers 1 reel on every spin", "coins_range": "0.01 - 1.00", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Rich Wilde and The Book of Dead Slot Review", "bonus": "10 Free Spins / Random Expanding Scatter Symbol", "coins_range": "0.01 - 2.00", "volatility": "High", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Untamed Giant Panda Slot Review", "bonus": "10 Free Spins / Sticky Wilds", "coins_range": "0.01 - 0.05", "volatility": "Low", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Nordic Heroes Slot Review", "bonus": "Unlimited / Wild Multipliers", "coins_range": "0.01 - 20.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Roaming Reels Slot Review", "bonus": "Up to 20 Free Spins / Further Stacked Wilds", "coins_range": "0.01 - 0.75", "volatility": "High", "slot_reels": "5 Reels / 100 Paylines", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "DJ Wild Slot Review", "bonus": "Expanding wilds with re-spins, win both ways", "coins_range": "0.25 / 100", "volatility": "Medium", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot"}
+{"jackpot": "January 2015", "title": "Pixie Gold Slot Review", "bonus": "1 Free Re-spins / Richer Reels", "coins_range": "0.01 - 2.00", "volatility": "Low", "slot_reels": "5 Reels / 1024 Ways to Win", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Spin Sorceress Slot Review", "bonus": "10 Free Spins / Guaranteed Wild on Every Spin", "coins_range": "0.01 - 2.00", "volatility": "High", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Rocket Returns Slot Review", "bonus": "Wilds, Free Spins, Multipliers", "coins_range": "0.15 / 150", "volatility": "Low/Medium", "slot_reels": "3 Reels / All Ways Pay", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Over 1,000 times your bet", "title": "Purple Hot Slot Review", "bonus": "None", "coins_range": "0.05 / 25", "volatility": "0.01 - 5.00", "slot_reels": "5 Reels / 5 Paylines", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Video Slot", "title": "Wishing You Fortune Slot Review", "bonus": "Up to 25 Free Spins / up to 30x Multiplier", "coins_range": "Medium/High", "volatility": "4%", "slot_reels": "Non-Progressive", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Video Slot", "title": "Life of Brian Slot Review", "coins_range": "0.30 / 999.90", "software": "Mobile Video Slot by Playtech", "slot_reels": "5 Reels / 30 Paylines", "volatility": "0.01 - 33.33"}
+{"jackpot": "Video Slot", "title": "Chilli Gold Slot Review", "bonus": "Up to 21 Free Spins / Increasing Stacked Wilds", "coins_range": "0.01 - 1.00", "volatility": "Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Mustang Money Slot Review", "bonus": "10 free spins / Up to 10x multipliers", "coins_range": "0.01 - 0.75", "volatility": "High", "slot_reels": "5 Reels / 100 Paylines", "software": "Mobile Video Slot"}
+{"jackpot": "From a few hundred to tens of thousands", "title": "X-Men 50 Lines Slot Review", "coins_range": "0.50 / 50", "software": "Mobile Video Slot by Playtech", "slot_reels": "5 Reels / 50 Paylines", "volatility": "0.01 - 1.00"}
+{"jackpot": "Video Slot", "title": "Birds on a Wire Slot Review", "bonus": "Wilds, Scatters, Cascading Reels, Multipliers,", "coins_range": "0.10 / 100", "volatility": "Medium/High", "slot_reels": "5 Reels / 17 Paylines", "software": "Mobile Video Slot by Thunderkick"}
+{"jackpot": "Over 1 million", "title": "Jackpot Giant Slot Review", "coins_range": "0.50 / 4", "software": "Mobile Video Slot by Playtech", "slot_reels": "5 Reels / 50 Paylines", "volatility": "0.01 - 0.08"}
+{"jackpot": "Video Slot", "title": "Wizard of Gems Slot Review", "bonus": "10 Free Spins / Wilds on every spin", "coins_range": "0.01 - 5.00", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Second Strike Slot Review", "bonus": "None", "coins_range": "0.01 - 10.00", "volatility": "Medium", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by Quickspin"}
+{"jackpot": "Video Slot", "title": "Family Guy Slot Review", "bonus": "Start at 10 Free Spins / Earn Extra Wilds", "coins_range": "0.01 - 30", "volatility": "Medium", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "James Dean Slot Review", "bonus": "Starts at 10 Free Spins / Up to 5x Multipliers", "coins_range": "0.01 - 2.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Dragon Lines Slot Review", "bonus": "10 Free Spins / Richer Reels", "coins_range": "0.01 - 0.75", "volatility": "Medium", "slot_reels": "5 Reels / 100 Paylines", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Lucky Koi Slot Review", "bonus": "Up to 30 Free Spins / Up to 5x Multiplier", "coins_range": "0.01 - 0.10", "volatility": "Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Happy Holidays Slot Review", "bonus": "10 Free Spins / 1024 Ways to Win", "coins_range": "0.01 - 0.10", "volatility": "Medium/High", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "So Much Sushi Slot Review", "bonus": "Up to 16 Free Spins / 1 high paying symbol", "coins_range": "0.01 - 0.20", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "5 Reels / 25 Paylines", "title": "So Many Monsters Slot Review", "bonus": "Wilds, Scatters, Free Spins", "coins_range": "0.25 / 100", "volatility": "0.01 - 0.20", "slot_reels": "4% to 3%", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "The Riches of Don Quixote Slot Review", "coins_range": "0.25 / 25", "software": "Mobile Video Slot by Playtech", "slot_reels": "5 Reels / 25 Paylines", "volatility": "0.01 - 1.00"}
+{"jackpot": "Video Slot", "title": "Koi Princess Slot Review", "bonus": "Starts at 10 Free Spins / Multiple Bonus Features", "coins_range": "0.01 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Texas Tea Slot Review", "bonus": "None", "coins_range": "0.01 - 30", "volatility": "Low", "slot_reels": "5 Reels / 9 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "So Much Candy Slot Review", "bonus": "Up to 16 Free Spins / 1 high paying symbol", "coins_range": "0.01 - 0.20", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Moon Shadow Slot Review", "bonus": "Stars at 10 Free Spins / 1 Symbol Picked as Wild", "coins_range": "0.01 - 5.00", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Video Slot", "title": "Sherlock Holmes: The Hunt for Blackwood Slot Review", "coins_range": "0.60 / 600", "software": "Mobile Video Slot by IGT", "slot_reels": "5 Reels / 30 Paylines", "volatility": "Medium"}
+{"jackpot": "Video Slot", "title": "Monopoly Once Around Deluxe Slot Review", "bonus": "None", "coins_range": "0.01 - 5.00", "volatility": "Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Classic Slot", "title": "Xmas Joker Slot Review", "bonus": "10 Free Spins / Mystery Prizes", "coins_range": "0.02 - 20", "volatility": "Medium", "slot_reels": "3 Reels / 5 Paylines", "software": "Mobile Classic Slot by Play'nGo"}
+{"jackpot": "Classic Slot", "title": "Aftershock Frenzy Slot Review", "bonus": "Up to 7 Free Spins / Guaranteed win on each spin", "coins_range": "0.05 - 20.00", "volatility": "Low/Medium", "slot_reels": "3 Reels / 5 Paylines", "software": "Mobile Classic Slot by WMS"}
+{"jackpot": "Video Slot", "title": "Hexbreaker 2 Slot Review", "bonus": "Stacked Wilds, Scatters, and Free Spins,", "coins_range": "0.01 - 10", "volatility": "Medium", "slot_reels": "5 Reels / 720 Ways to Win", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Jack\u2019s Beanstalk Slot Review", "bonus": "Starts at 3 Free Spins / Growing Wilds", "coins_range": "0.01 - 2.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "5 Reels / 40 Paylines", "title": "Cat Queen Slot Review", "coins_range": "16,000", "software": "Mobile Video Slot by Playtech", "slot_reels": "Low", "volatility": "0.40 / 14"}
+{"jackpot": "Video Slot", "title": "Basketball Star Slot Review", "bonus": "Stacked Wilds, Wild Reels, 25 Free Spins, Cascading Reels", "coins_range": "0.01 - 0.10", "volatility": "Medium", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Cherry Love Slot Review", "bonus": "Expanded Wilds, Scatters, Free Spins,", "coins_range": "0.30 / 30", "volatility": "0.01 - 1.00", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Video Slot", "title": "Sinbad\u2019s Golden Voyage Slot Review", "coins_range": "0.50 / 200", "software": "Mobile Video Slot by Playtech", "slot_reels": "5 Reels / 1 Payline", "volatility": "Medium"}
+{"jackpot": "Video Slot", "title": "Crazy 7 Slot Review", "coins_range": "None", "software": "Mobile Video Slot by Playtech", "slot_reels": "3 Reels / 1 Payline", "volatility": "1999.95"}
+{"jackpot": "Video Slot", "title": "King of Slots Slot Review", "bonus": "Up to 30 Free Spins / 3X Multiplier", "coins_range": "0.01 -", "volatility": "Medium/High", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Rage to Riches Slot Review", "bonus": "10 Free Spins / Up to 10x Multiplier", "coins_range": "0.01 - 1.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Pyramid Quest for Immortality Slot Review", "bonus": "Avalanche Features / Up to 10x Multipliers", "coins_range": "0.01 - 2.00", "volatility": "High", "slot_reels": "5 Reels / 720 Ways to Win", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Funky Fruits Slot Review", "bonus": "Collapsing Symbols", "coins_range": "1 / 10", "volatility": "Low/Medium", "slot_reels": "Over 500,000 thousand", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Video Slot", "title": "Golden Era Slot Review", "bonus": "12 Free Spins / Embracing Wild Reels", "coins_range": "0.01 - 0.20", "volatility": "Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Red Baron Slot Review", "bonus": "Wilds, Scatters, Free Spins, Multipliers", "coins_range": "0.01 - 2.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Aristocrat"}
+{"jackpot": "Video Slot", "title": "Happy Halloween Slot Review", "bonus": "10 Free Spins / Increasing Stacked Wilds", "coins_range": "0.01 - 0.40", "volatility": "Medium/High", "slot_reels": "5 Reels / 50 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Viking Storm Slot Review", "bonus": "9 Free Spins / No Multipliers", "coins_range": "0.02 - 25", "volatility": "Low", "slot_reels": "A Few Thousands - sometimes 10s of thousands", "software": "Mobile Video Slot by mFortune"}
+{"jackpot": "Video Slot", "title": "Bonus Bears Slot Review", "coins_range": "0.25 / 25", "software": "Mobile Video Slot by Playtech", "slot_reels": "5 Reels / 25 Paylines", "volatility": "0.01 - 1.00"}
+{"jackpot": "Video Slot", "title": "Arctic Treasure Slot Review", "bonus": "Wilds, Scatters, Free Spins, Click Me Bonus", "coins_range": "0.20 / 100", "volatility": "0.01 - 5.00", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Video Slot", "title": "Treasure Island Slot Review", "bonus": "Stacked Wilds, Click Me Bonus, Free Spins, Sticky Wilds, Extra Wilds", "coins_range": "0.50 / 100", "volatility": "Low", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by Quickspin"}
+{"jackpot": "Video Slot", "title": "Big Ben Slot Review", "bonus": "Up to 25 Free Spins / 2x Multiplier", "coins_range": "0.01 - 2.00", "volatility": "Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Aristocrat"}
+{"jackpot": "Video Slot", "title": "Silver Bullet Slot Review", "bonus": "Wilds, Scatters, Pay Both Ways", "coins_range": "0.09 / 9", "volatility": "0.01 - 1.00", "slot_reels": "3 Reels / 9 Paylines", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Video Slot", "title": "Zeus 1000 Slot Review", "bonus": "Up to 30 Free Spins / Additional Zeus symbols on reels", "coins_range": "0.01 - 5.00", "volatility": "Medium", "slot_reels": "5 Reels / 100 Paylines", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Video Slot", "title": "Cash Stampede Slot Review", "bonus": "Starts at 8 Free Spins / Sticky wild in centre of reels", "coins_range": "0.01 - 2.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Eye of the Kraken Slot Review", "bonus": "9 Free Spins / 2 Extra Symbols", "coins_range": "0.01 - 10.00", "volatility": "Low", "slot_reels": "3 Reels / 8 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Holmes And The Stolen Stones Slot Review", "bonus": "24,000", "coins_range": "Low/Medium", "volatility": "3.2%", "slot_reels": "5 jackpots hitting an average of 100 to 30,000", "software": "Mobile Video Slot by Yggdrasil"}
+{"jackpot": "Video Slot", "title": "Hook\u2019s Heroes Slot Review", "bonus": "Up to 15 Free Spins / Multiple Bonus Features", "coins_range": "0.01 - 1.00", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "5 Reels / 10 Paylines", "title": "Columbus Deluxe Slot Review", "coins_range": "250,000", "software": "Mobile Video Slot by Novomatic", "slot_reels": "Low", "volatility": "0.10 / 500"}
+{"jackpot": "Video Slot", "title": "Pacific Paradise Slot Review", "bonus": "10 Free Spins / Richer Reels", "coins_range": "0.01 - 5.00", "volatility": "High", "slot_reels": "5 Reels / 720 Ways to Win", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Fortunate 5 Slot Review", "bonus": "Unlimited Free Spins / End With Wild Storm Feature", "coins_range": "0.02 - 0.40", "volatility": "Medium/High", "slot_reels": "Upwards of 6,000", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Video Slot", "title": "Bier Fest Slot Review", "bonus": "Scatters, Wilds, Stacked Wilds, Free Spins, Instant Cash", "coins_range": "0.01 - 1.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Genesis"}
+{"jackpot": "Video Slot", "title": "Double Buffalo Spirit Slot Review", "coins_range": "0.40 / 100", "software": "Mobile Video Slot by WMS", "slot_reels": "5 Reels / 1024 Ways to Win", "volatility": "Medium"}
+{"jackpot": "Video Slot", "title": "Vikings Go Wild Slot Review", "bonus": "25,000", "coins_range": "Medium/High", "volatility": "3.7%", "slot_reels": "12,500", "software": "Mobile Video Slot by Yggdrasil"}
+{"jackpot": "Video Slot", "title": "Gold Blast Slot Review", "bonus": "10,000", "coins_range": "Low/Medium", "volatility": "3.3%", "slot_reels": "A few thousand at most", "software": "Mobile Video Slot by mFortune"}
+{"jackpot": "Video Slot", "title": "Samba de Frutas Slot Review", "bonus": "5 Free Spins / More Wilds, More Spins", "coins_range": "0.01 - 10", "volatility": "Medium", "slot_reels": "5 Reels / 100 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Wild North Slot Review", "bonus": "Multiple Free Spins / Multiple Bonus Features", "coins_range": "0.01 - 5.00", "volatility": "Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "From 1 to 5 Thousand", "title": "Quest for Fire Slot Review", "bonus": "Click Me Bonus, Free Spins, Wilds", "coins_range": "0.30 / 75", "volatility": "2 - 5", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by mFortune"}
+{"jackpot": "Video Slot", "title": "Rainforest Dream Slot Review", "bonus": "Replicating Wilds, Stacked Wilds, Free Spins, Big Bet", "coins_range": "0.01 - 25", "volatility": "Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Video Slot", "title": "Taco Brothers Slot Review", "coins_range": "150,000 coins", "software": "Mobile Video Slot", "slot_reels": "5 Reels / 243 Paylines", "volatility": "0.10 / 50"}
+{"jackpot": "Video Slot", "title": "Rugby Star Slot Review", "bonus": "Scatter Symbols, Stacked Wilds, Wild Pass Feature, Free Spins", "coins_range": "0.50 / 50", "volatility": "0.01 - 0.10", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Machine Gun Unicorn Slot Review", "bonus": "Pays both ways, Wilds that destroys zombies", "coins_range": "0.01 - 25", "volatility": "Low/Medium", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by Genesis"}
+{"jackpot": "Video Slot", "title": "Mr Green Moonlight Slot Review", "bonus": "10 Free Spins / up to 5x Multipliers", "coins_range": "0.01 - 0.50", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "5 Reels / 50 Paylines", "title": "Crown Gems Slot Review", "bonus": "Increase paylines by betting more", "coins_range": "0.10 / 500", "volatility": "0.01 - 50", "slot_reels": "4.95% - 3.92%", "software": "Mobile Video Slot by Barcrest"}
+{"jackpot": "Video Slot", "title": "Super Monopoly Money Slot Review", "bonus": "Usually between 8 to 15 free spins", "coins_range": "0.01 - 3.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "5 Reels / 40 Paylines", "title": "Dolphin Gold Slot Review", "bonus": "Stacked Wilds, Free Spins, Multipliers", "coins_range": "0.40 / 80", "volatility": "0.01 - 2.00", "slot_reels": "4.69%", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Crystal Queen Slot Review", "bonus": "10 Free Spins / 56 Paylines & Pays Both Ways", "coins_range": "0.01 - 2.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Quickspin"}
+{"jackpot": "Video Slot", "title": "Spin Party Slot Review", "bonus": "Start at 5 Free Spins / Win Guaranteed on Each Spin", "coins_range": "0.01 - 2.00", "volatility": "High", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "5 Reels / 243 Paylines", "title": "Asian Beauty Slot Review", "bonus": "Wilds, Scatters, Free Spins, Click Me Bonus", "coins_range": "0.30 / 150", "volatility": "0.01 - 0.50", "slot_reels": "4% - 3%", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Classic Slot", "title": "Jackpot Jester Wild Nudge Slot Review", "bonus": "None", "coins_range": "0.01 - 2.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 5 Paylines", "software": "Mobile Classic Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Dazzle Me Slot Review", "bonus": "Up to 16 Free Spins / Linked Reels on Every Spin", "coins_range": "0.01 - 1.00", "volatility": "Medium", "slot_reels": "5 Reels / 76 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "5 Reels / 5 Paylines", "title": "Black Magic Fruits Slot Review", "bonus": "Big Bet Option giving you wilds and extra pays", "coins_range": "0.10 / 500", "volatility": "0.02 - 100", "slot_reels": "4.98% - 3.89%", "software": "Mobile Classic Slot by Barcrest"}
+{"jackpot": "5 Reels / 50 Paylines", "title": "Horn of Plenty Slot Review", "coins_range": "1,875", "software": "Mobile Video Slot", "slot_reels": "Low", "volatility": "0.50 / 50"}
+{"jackpot": "Video Slot", "title": "OMG! Kittens Slot Review", "bonus": "Minim of 5 / Guaranteed Win of at least 10x your bet", "coins_range": "0.01 - 2.50", "volatility": "Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Video Slot", "title": "Reef Run Slot Review", "bonus": "Up to 60 Free Spins / Increasing Multipliers up to 20x", "coins_range": "0.01 - 2.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Yggdrasil"}
+{"jackpot": "Video Slot", "title": "Candy King Slot Review", "bonus": "Up to 9 Free Spins / No Multipliers", "coins_range": "0.02 - 20.00", "volatility": "Low", "slot_reels": "A few hundred / thousands at most", "software": "Mobile Video Slot by mFortune"}
+{"jackpot": "5 Reels / 30 Paylines", "title": "Age of Spartans Slot Review", "coins_range": "5,000", "software": "Mobile Video Slot", "slot_reels": "Low", "volatility": "0.30 / 37.50"}
+{"jackpot": "5 Reels / 5 Paylines", "title": "The Dark Joker Rizes Slot Review", "coins_range": "6,000", "software": "Mobile Video Slot by Yggdrasil", "slot_reels": "Low/Medium", "volatility": "0.10 / 10"}
+{"jackpot": "Video Slot", "title": "Alien Farm Invasion Slot Review", "coins_range": "0.30 / 75", "software": "Mobile Video Slot by mFortune", "slot_reels": "5 Reels / 15 Paylines", "volatility": "0.2 - 5.00"}
+{"jackpot": "Video Slot", "title": "Firehouse Hounds Slot Review", "bonus": "Stacked Wilds, Free Spins", "coins_range": "0.01 - 30", "volatility": "Low", "slot_reels": "3 Reels / 30 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Royal Masquerade Slot Review", "bonus": "Starts at 5 Free Spins / Guaranteed win on every spin", "coins_range": "0.01 - 2.00", "volatility": "High", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "DoublePlay SuperBet Slot Review", "bonus": "15 Free Spins / Enhanced reels get double the amount of multipliers", "coins_range": "0.01", "volatility": "High", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Wheel of Fortune Triple Extreme Spin Slot Review", "bonus": "None", "coins_range": "0.01 - 5.00", "volatility": "Medium", "slot_reels": "5 Reels / 720 Ways to Win", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Lucky Gems Slot Review", "coins_range": "7,500", "software": "Mobile Video Slot", "slot_reels": "5 Reels / All Ways Pay", "volatility": "0.10 / 50"}
+{"jackpot": "Video Slot", "title": "Supe it Up Slot Review", "bonus": "Win up to 30 Free Spins / 6x Multipliers", "coins_range": "0.01 - 0.20", "volatility": "Medium/High", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "5 Reels / 10 Paylines", "title": "Hot Frootastic Slot Review", "coins_range": "0.10 / 500", "software": "Mobile Video Slot by Barcrest", "slot_reels": "4.04%", "volatility": "0.01 - 50"}
+{"jackpot": "Video Slot", "title": "Big Game Slot Review", "bonus": "Spin in 16 Directions, Spin Hot & Cold", "coins_range": "0.30 / 45", "volatility": "0.01 - 0.10", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Party Island Slot Review", "bonus": "15 Free Spins / 3x Multiplier", "coins_range": "0.01 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 9 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Double Happiness Slot Review", "bonus": "Up to 25 Free Spins / Roaming Wilds and (sometimes) 10x multiplier", "coins_range": "0.01 - 2.00", "volatility": "Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Aristocrat"}
+{"jackpot": "5 Reels / 5 Paylines", "title": "Cyrus The Virus Slot Review", "coins_range": "80,000", "software": "Mobile Video Slot by Yggdrasil", "slot_reels": "Medium/High", "volatility": "0.10 / 40"}
+{"jackpot": "Video Slot", "title": "Reel Force Five Slot Review", "bonus": "Up to 15 Free Spins / So many wilds", "coins_range": "0.01 - 25.00", "volatility": "Low", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by CORE Gaming"}
+{"jackpot": "Video Slot", "title": "Fish Party Slot Review", "bonus": "Up to 20 Free Spins / Stacked Symbols", "coins_range": "0.01 - 0.05", "volatility": "Medium/High", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "5 Reels / 100 Paylines", "title": "Summer Holiday Slot Review", "bonus": "Stacked Wilds, Free Spins, Scatters, Pick a Prize", "coins_range": "1 / 50", "volatility": "0.01 -", "slot_reels": "2.86%", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Gods of Giza Slot Review", "bonus": "8 Free Spins / 4 'rotations' per free spin", "coins_range": "0.01 - 10.00", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Genesis"}
+{"jackpot": "Video Slot", "title": "Kings of Cash Slot Review", "bonus": "Up to 25 Free Spins /  2x Multipliers", "coins_range": "0.01 - 0.25", "volatility": "Low/Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Cash Coaster Slot Review", "bonus": "Stacked Wilds, Free Spins,", "coins_range": "0.01 - 10", "volatility": "Low", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Dr Lovemore Slot Review", "bonus": "Wilds, Scatters, Free Spins", "coins_range": "0.01 - 1.00", "volatility": "Low/Medium", "slot_reels": "3 Reels / 20 Paylines", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Video Slot", "title": "Mega Glam Life Slot Review", "bonus": "916,875", "coins_range": "Medium", "volatility": "3.71%", "slot_reels": "400 to 800 thousand", "software": "Mobile Video Slot by BetSoft"}
+{"jackpot": "Video Slot", "title": "Neon Staxx Slot Review", "bonus": "Up to 10 free spin / One high paying symbol always stacked", "coins_range": "0.20 - 0.5", "volatility": "Low", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "5 Reels / 25 Paylines", "title": "Crystal Forest Slot Review", "coins_range": "93,750", "software": "Mobile Video Slot by WMS", "slot_reels": "Low/Medium", "volatility": "0.25 / 125"}
+{"jackpot": "Video Slot", "title": "Event Horizon Slot Review", "bonus": "No Free Spins / No Multiplier", "coins_range": "0.02 - 0.25", "volatility": "Medium/High", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by BetSoft"}
+{"jackpot": "Video Slot", "title": "Champions Goal Slot Review", "bonus": "Stars at 7 Free Spins / Easier to trigger Bonuses", "coins_range": "0.01 - 5.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Casino Zeppelin Slot Review", "bonus": "Up to 20 Free Spins / With Sticky Wilds", "coins_range": "0.01 - 0.50", "volatility": "Medium/High", "slot_reels": "3 Reels / 20 Paylines", "software": "Mobile Video Slot by Yggdrasil"}
+{"jackpot": "5 Reels / 40 Paylines", "title": "King Colossus Slot Review", "coins_range": "12,000", "software": "Mobile Video Slot by Quickspin", "slot_reels": "3.43%", "volatility": "0.40 / 120"}
+{"jackpot": "Video Slot", "title": "Cool Wolf Slot Review", "bonus": "Up to 25 Free Spins / 10 Multipliers", "coins_range": "0.01 - 0.10", "volatility": "Low/Medium", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Apollo Rising Slot Review", "bonus": "Up to 3 / Up to 3 Sticky Expanded Wilds", "coins_range": "0.01 - 10", "volatility": "Medium", "slot_reels": "5 Reels / 100 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "5 Reels / 25 Paylines", "title": "Jewel Blast Slot Review", "coins_range": "50,000", "software": "Mobile Video Slot by Quickspin", "slot_reels": "3.48%", "volatility": "0.25 / 100"}
+{"jackpot": "5 Reels / 10 Paylines", "title": "Barkin\u2019 Mad Slot Review", "coins_range": "0.10 / 400", "software": "Mobile Video Slot by Barcrest", "slot_reels": "6% to 4%", "volatility": "0.01 - 40.00"}
+{"jackpot": "Video Slot", "title": "Sherlock Mystery Slot Review", "bonus": "10 Free Spins / Extra Wilds with Random Multipliers", "coins_range": "0.01 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "5 Reels / 25 Paylines", "title": "The Spin Lab Slot Review", "bonus": "Build your own of 27 free spin bonus", "coins_range": "0.40 / 80", "volatility": "0.01 - 2.00", "slot_reels": "4.2% to 4%%", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "5 Reels / 17 Paylines", "title": "Esqueleto Explosivo Slot Review", "bonus": "Cascading Reels, Exploding Wilds, Increasing Multipliers", "coins_range": "0.10 / 100", "volatility": "0.005 - 5.88", "slot_reels": "2.4%", "software": "Mobile Video Slot by Thunderkick"}
+{"jackpot": "Video Slot", "title": "Cool Jewels Slot Review", "bonus": "Extra Wilds, Free Spins, Multipliers", "coins_range": "0.50 / 400", "volatility": "Low/Medium", "slot_reels": "6 Reels / All Ways Pay", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Video Slot", "title": "Break Away Slot Review", "bonus": "Up to 25 Free Spins / 10 Multipliers", "coins_range": "0.01 - 0.10", "volatility": "Low/Medium", "slot_reels": "3 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "An Evening with Holly Madison Slot Review", "bonus": "Get 10 Free Spins / Collect kisses for instant cash", "coins_range": "0.01 - 2.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Gourmet Ranch Riches Slot Review", "coins_range": "0.10 / 200", "software": "Mobile Video Slot", "slot_reels": "10,000 times your bet", "volatility": "Low/Medium"}
+{"jackpot": "Video Slot", "title": "Dragon\u2019s Myth Slot Review", "bonus": "Wilds, Free Spins, Sticky Wilds, Scatters", "coins_range": "0.20 / 400", "volatility": "0.01 - 20.00", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot"}
+{"jackpot": "About 200 times your bet", "title": "Super Fast Hot Hot Slot Review", "coins_range": "300,000", "software": "Mobile Video Slot by iSoftBet", "slot_reels": "5 Reels / 25 Paylines", "volatility": "0.25 / 250"}
+{"jackpot": "Video Slot", "title": "Monopoly Big Event Slot Review", "bonus": "At least 10, usually more / Special wild features", "coins_range": "0.01 - 25.00", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Video Slot", "title": "Miss Red Slot Review", "bonus": "End2End Symbols, Free Spins", "coins_range": "0.01 - 30.00", "volatility": "Low", "slot_reels": "5 Reels / 1024 Ways to Win", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Liquid Gold Slot Review", "bonus": "Wilds, Scatters, Free Spins", "coins_range": "0.20 / 100", "volatility": "0.01 - 0.50", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Sushi Yum Yum Extra Wasabi Slot Review", "coins_range": "0.60 / 500", "software": "Mobile Video Slot by IGT", "slot_reels": "5 Reels / 720 Ways to Win", "volatility": "Medium/High"}
+{"jackpot": "Video Slot", "title": "Bingo Billions Slot Review", "bonus": "Get up to 20 Free Spins / 3x Multiplier", "coins_range": "0.01 - 2.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Golden Legend Slot Review", "bonus": "400,000", "coins_range": "Medium/High", "volatility": "3.5%", "slot_reels": "4,000 times your bet", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Dracula Touch Slot Review", "bonus": "10 Free Spins / Stacked symbols on every spin", "coins_range": "0.01 - 1.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Big Bad Wolf Slot Review", "bonus": "Starts with 10 Free Spins / Build up to a 2x Multiplier", "coins_range": "0.01 - 5.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Quickspin"}
+{"jackpot": "Video Slot", "title": "Sevens High Slot Review", "bonus": "Free Re-Spins, Free Spins, Extra Wilds", "coins_range": "0.01 - 4.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Quickspin"}
+{"jackpot": "Video Slot", "title": "Gorilla Go Wild Slot Review", "bonus": "10 Free Spins with Multiplier & Wilds", "coins_range": "0.01 - 2.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Miss White Slot Review", "bonus": "End2End symbols, free spins", "coins_range": "0.01 - 30", "volatility": "Low", "slot_reels": "5 Reels / 1024 Ways to Win", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "5 Reels / 20 Paylines", "title": "Amazon Queen Slot Review", "coins_range": "0.20 / 60", "software": "Mobile Video Slot by WMS", "slot_reels": "4.06%", "volatility": "0.01 - 3.00"}
+{"jackpot": "5 Reels / 25 Paylines", "title": "The Oddventurers Slot Review", "coins_range": "0.25 / 25", "software": "Mobile Video Slot", "slot_reels": "3.94%", "volatility": "0.01 - 1.00"}
+{"jackpot": "Video Slot", "title": "White King Slot Review", "bonus": "Stacked Wilds, Free Spins, Scatter", "coins_range": "0.40 / 16", "volatility": "0.01 - 0.40", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Jackpot changes according to your bet level", "title": "Super Lucky Reels Slot Review", "bonus": "Instant cash, Extra Multiplier, Free Spins", "coins_range": "Technically 0.05 but really 0.75  / 75", "volatility": "0.01 - 1.00", "slot_reels": "5 Reels / 5 Paylines", "software": "Mobile Classic Slot by iSoftBet"}
+{"jackpot": "Video Slot", "title": "Tower Quest Slot Review", "bonus": "5 Free Spins / With Special Wilds", "coins_range": "0.01 - 1.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Epic City Slot Review", "bonus": "Click Me Bonus, Free Spins, Wilds, Scatters", "coins_range": "0.01 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Natural Powers Slot Review", "bonus": "5 - 15 Free Spins / 10x - 2x Multipliers", "coins_range": "0.01 - 3.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Boogie Monsters Slot Review", "bonus": "Wilds, Scatter, Free Spins, Click Me Bonus, Multipliers", "coins_range": "0.40 / 200", "volatility": "0.01 - 0.50", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "5 Reels / 40 Paylines", "title": "Magic Mushrooms Slot Review", "coins_range": "0.40 / 20", "software": "Mobile Video Slot by Yggdrasil", "slot_reels": "3.6%", "volatility": "0.01 - 0.50"}
+{"jackpot": "Video Slot", "title": "Rhyming Reels: Georgie Porgie Slot Review", "bonus": "Up to 25 Free Spins / 5x Multipliers", "coins_range": "0.01 - 0.10", "volatility": "Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Vegas Party Slot Review", "bonus": "No free spins / no multiplier", "coins_range": "0.01 - 0.05", "volatility": "Medium/High", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "MegaJackpots Cleopatra Slot Review", "bonus": "15 Free Spins / 3X Multiplier", "coins_range": "Medium", "volatility": "11.02 - 6.97%", "slot_reels": "Over 1 million in cash", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "5 Reels / 15 Paylines", "title": "Best of British Slot Review", "coins_range": "0.15 / 15", "software": "Mobile Video Slot by Nektan", "slot_reels": "3.4%", "volatility": "0.01 - 1.00"}
+{"jackpot": "5 Reels / 20 Paylines", "title": "Elf & Safety Slot Review", "bonus": "Free Spins & Wilds", "coins_range": "0.20 / 1,000", "volatility": "0.01 - 50", "slot_reels": "4.54%", "software": "Mobile Video Slot by Nektan"}
+{"jackpot": "Video Slot", "title": "Lucky Leprechaun Slot Review", "bonus": "Starts at 5 free spins / Starts at 2x Multiplier", "coins_range": "0.01 - 0.10", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Ooh Aah Dracula Slot Review", "bonus": "Up to 15 Free Spins / Extra Wild Symbols", "coins_range": "0.01 - 50.00", "volatility": "Medium", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by Barcrest"}
+{"jackpot": "Video Slot", "title": "Aloha Island Slot Review", "bonus": "5 Free Spins / Richer Reels", "coins_range": "0.01 - 10.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 50 Paylines", "software": "Mobile Video Slot by Bally Technologies"}
+{"jackpot": "Video Slot", "title": "Easter Eggs Slot Review", "bonus": "Up to 10 / Up to 6x Multiplier", "coins_range": "0.01 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "5 Reels / 50 Paylines", "title": "Bruce Lee Slot Review", "bonus": "Stacked wilds, scatters, expanded wilds, free spins,", "coins_range": "0.30 / 60", "volatility": "0.01 - 2.00", "slot_reels": "3.96%", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Video Slot", "title": "Castle Builder Slot Review", "bonus": "Build Castles, Pick Suitors, Get Instant Cash", "coins_range": "0.05 - 2.00", "volatility": "Low", "slot_reels": "3.53", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Spinata Grande Slot Review", "bonus": "5 Free Spins + Collossal Wilds / No Multipliers", "coins_range": "0.01 - 1.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "50 Dragons Slot Review", "bonus": "Free Spins, Stacked Symbols, Stacked Wilds", "coins_range": "0.01 - 2.00", "volatility": "Medium", "slot_reels": "5 Reels / 50 Paylines", "software": "Mobile Video Slot by Aristocrat"}
+{"jackpot": "Video Slot", "title": "Secret Admirer Slot Review", "bonus": "Wilds, Scatters, Free Spins", "coins_range": "0.09 / 90", "volatility": "0.01 - 1.00", "slot_reels": "5 Reels / 9 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "5 Reels / 20 Paylines", "title": "Dragon Slot Slot Review", "bonus": "Expanding Wilds, Free Spins, Multipliers", "coins_range": "0.20 / 200", "volatility": "0.01 - 10.00", "slot_reels": "4.93%%", "software": "Mobile Video Slot by Leander Games"}
+{"jackpot": "Video Slot", "title": "Cricket Star Slot Review", "bonus": "25 Free Spins / Up to 10x Multiplier", "coins_range": "0.01 - 0.10", "volatility": "Low", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Miss Midas Slot Review", "bonus": "Up to 25 Free Spins / Extra Replicating Wilds", "coins_range": "0.01 - 2.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Masques of San Marco Slot Review", "bonus": "6 Free Spins / Richer Reels & 60 Paylines", "coins_range": "0.01 - 30.00", "volatility": "Low", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "MegaJackpots Siberian Storm Slot Review", "bonus": "96 Free Spins / in-built Multipliers", "coins_range": "Medium", "volatility": "11.02 - 6.97%", "slot_reels": "Generally hits around 1 million", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Prowling Panther Slot Review", "bonus": "Wilds, Multipliers & Free Spins", "coins_range": "0.01 - 50", "volatility": "High", "slot_reels": "5 Reels / 720 Ways to Win", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Miss Kitty Slot Review", "bonus": "10 Free Spins / Sticky Wilds", "coins_range": "0.01 - 2.00", "volatility": "Medium", "slot_reels": "5 Reels / 50 Paylines", "software": "Mobile Video Slot by Aristocrat"}
+{"jackpot": "Video Slot", "title": "Troll\u2019s Tale Slot Review", "bonus": "Up to 10 Free Spins / No Multipliers", "coins_range": "0.01 - 50", "volatility": "Low", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Tornado Farm Escape Slot Review", "bonus": "Unlimited / Instant Cash Wins", "coins_range": "0.01 - 1.00", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Thai Paradise Slot Review", "bonus": "Wild Scatters, Free Spins with Mystery Scatter", "coins_range": "0.01 - 1.00", "volatility": "High", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "5 Reels / 20 Paylines", "title": "Ali Baba Slot Review", "bonus": "Expanding Wilds, Free Spins, Multipliers", "coins_range": "0.20 / 200", "volatility": "0.01 - 10.00", "slot_reels": "4.93%", "software": "Mobile Video Slot by Leander Games"}
+{"jackpot": "Video Slot", "title": "Plenty O\u2019Fortune Slot Review", "bonus": "Free Spins, Wilds, Stacked Symbols, Click me Bonus", "coins_range": "0.01 - 0.40", "volatility": "Medium/High", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Video Slot", "title": "Big Kahuna Slot Review", "bonus": "2x Click Me Bonus Games", "coins_range": "0.45 / 22.50", "volatility": "0.5 - 0.50", "slot_reels": "5 Reels / 9 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "5 Reels / 50 Paylines", "title": "The Three Musketeers Slot Review", "coins_range": "Up to 24 free spins / No Extra Multipliers", "software": "Mobile Video Slot by Playtech", "slot_reels": "Low/Medium", "volatility": "0.50 / 50"}
+{"jackpot": "5 Reels / 243 Paylines", "title": "Choy Sun Doa Slot Review", "coins_range": "0.25 / 50", "software": "Mobile Video Slot by Aristocrat", "slot_reels": "5%", "volatility": "0.01 - 2.00"}
+{"jackpot": "Video Slot", "title": "Sure Win Slot Review", "bonus": "Wilds, Scatters, Free Spins", "coins_range": "0.25 / 125", "volatility": "0.01 - 0.25", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Wild Birthday Blast Slot Review", "coins_range": "0.30 / 60", "software": "Mobile Video Slot", "slot_reels": "5 Reels / 30 Paylines", "volatility": "0.01 - 2.00"}
+{"jackpot": "Video Slot", "title": "The Invisible Man Slot Review", "bonus": "Roaming wilds, Free Spins, Click Me Feature, Free Re-spins", "coins_range": "0.20 / 100", "volatility": "0.01 - 0.50", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Santa Paws Slot Review", "bonus": "12 Free Spins / Up to 7x Multiplier", "coins_range": "0.01 - 0.50", "volatility": "Low/Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Classic Slot", "title": "Jackpot 6000 Slot Review", "bonus": "6,000", "coins_range": "Medium", "volatility": "4.9% - 1.1%", "slot_reels": "6,000", "software": "Mobile Classic Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Foxin\u2019 Wins Again Slot Review", "bonus": "10 Free Spins / 2x Multipliers", "coins_range": "0.01 - 2", "volatility": "Medium/High", "slot_reels": "5 Reels / 50 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Vegas Hits Slot Review", "bonus": "Multiple Free Spins up to 8 / Lots of Extras", "coins_range": "0.01 - 10.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by Bally Technologies"}
+{"jackpot": "Video Slot", "title": "Electric Sam Slot Review", "bonus": "Wild, Free Spins, Scatters", "coins_range": "0.20 / 100", "volatility": "0.02 - 1.00", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Game of Thrones Slot Review", "bonus": "Up to 18 free spins / up to 5x Multipliers", "coins_range": "0.01 - 0.10", "volatility": "Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Pharaohs Fortune Slot Review", "bonus": "Starts at 3 Free Spins / Starts at 1x Multiplier", "coins_range": "0.01 - 30.00", "volatility": "Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Volcano Eruption Slot Review", "bonus": "5 Free Spins / Expanded Wild", "coins_range": "0.01 - 2.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Bubble Craze Slot Review", "bonus": "Free Spins, Multipliers, Transform Bubbles", "coins_range": "0.01 - 20.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / All Ways Pay", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Jack and the Beanstalk Slot Review", "bonus": "10 Free Spins + / Collection of Expanding Wilds", "coins_range": "0.01 - 0.50", "volatility": "Medium/High", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Judge Dredd Slot Review", "bonus": "Extra Wilds, Free Spins, Scatters", "coins_range": "0.01 - 2.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "6 Reels / 192 Paylines", "title": "Zeus 3 Slot Review", "coins_range": "250,000", "software": "Mobile Video Slot by WMS", "slot_reels": "3.81%", "volatility": "0.40 / 80"}
+{"jackpot": "5 Reels / 100 Paylines", "title": "Fire Queen Slot Review", "bonus": "Wilds, Expanding wilds, Extra Wilds, Free Spins", "coins_range": "0.50 / 100", "volatility": "0.01 - 2.00", "slot_reels": "4%", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Video Slot", "title": "Merry Xmas Slot Review", "bonus": "No Free Spins / No Multipliers", "coins_range": "0.01 - 0.25", "volatility": "Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "6 Reels / 4096 Ways to Win", "title": "Raging Rhino Slot Review", "coins_range": "250,000", "software": "Mobile Video Slot by WMS", "slot_reels": "4.09%", "volatility": "0.40 / 60"}
+{"jackpot": "Video Slot", "title": "Buster Safe Slot Review", "bonus": "150,000", "coins_range": "Low", "volatility": "3.3%", "slot_reels": "Progressive - into the tens of thousands", "software": "Mobile Video Slot by mFortune"}
+{"jackpot": "Video Slot", "title": "Crazy Cows Slot Review", "bonus": "Up to 50 (but generally around 15) / Up to 5x Multiplier (but generally 2x)", "coins_range": "0.01 - 1.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Geisha Story Slot Review", "bonus": "Free Spins", "coins_range": "0.01 - 1.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "5 Reels / 15 Paylines", "title": "The Lab Slot Review", "coins_range": "0.15 / 90", "software": "Mobile Video Slot", "slot_reels": "3.7%", "volatility": "0.01 - 0.10"}
+{"jackpot": "Video Slot", "title": "Titan Storm Slot Review", "bonus": "Wilds, Scatters, Free Spins", "coins_range": "0.01 - 2.00", "volatility": "High", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Golden Ticket Slot Review", "bonus": "10 Free Spins / Increasing Multipliers", "coins_range": "None - set", "volatility": "Low/Medium", "slot_reels": "5 Reels / All Ways Pay", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "3 Reels / 40 Paylines", "title": "Mega Joker Slot Review", "coins_range": "32,000", "software": "Mobile Classic Slot by Novomatic", "slot_reels": "Medium/High", "volatility": "0.40 / 80"}
+{"jackpot": "Video Slot", "title": "Pearls of India Slot Review", "bonus": "Start with 10 / up to 20x Multiplier", "coins_range": "0.01 - 1.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Once Upon a Time Slot Review", "bonus": "Starts at 5 Free Spins / No Multipliers", "coins_range": "0.02 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile Video Slot by BetSoft"}
+{"jackpot": "Video Slot", "title": "Reel King Slot Review", "bonus": "2000", "coins_range": "Low/Medium", "volatility": "6%", "slot_reels": "500x your bet", "software": "Mobile Video Slot by Novomatic"}
+{"jackpot": "Video Slot", "title": "Sweet Party Slot Review", "bonus": "No Free Spins / No Multipliers", "coins_range": "1.00 - 10.00", "volatility": "Medium", "slot_reels": "Progressive - 1 Million up", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "5 Reels / 30 Paylines", "title": "Alice Adventure Slot Review", "coins_range": "60,000", "software": "Mobile Video Slot by iSoftBet", "slot_reels": "Low/Medium", "volatility": "0.30 / 6"}
+{"jackpot": "Video Slot", "title": "Mayan Riches Slot Review", "bonus": "5 Free Spins / Richer Reels", "coins_range": "0.01 - 10.00", "volatility": "Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "South Park Reel Chaos Slot Review", "bonus": "Unlimited / up to 4x Multipliers", "coins_range": "0.01 - 0.5", "volatility": "Low/Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Caesar & Cleopatra Slot Review", "bonus": "Click Me Feature, Free Spins & Wilds", "coins_range": "0.10 - 1.00", "volatility": "Low", "slot_reels": "Progressive - into the hundreds", "software": "Mobile Video Slot by mFortune"}
+{"jackpot": "Video Slot", "title": "Wild West Slot Review", "bonus": "Up to 25 Free Spins / Stacked Scatters", "coins_range": "0.01 - 2.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "5 Reels / 30 Paylines", "title": "Ninja Chef Slot Review", "coins_range": "300,000", "software": "Mobile Video Slot by iSoftBet", "slot_reels": "Low/Medium", "volatility": "0.30 / 300"}
+{"jackpot": "Video Slot", "title": "King Kong Slot Review", "coins_range": "0.20 / 20", "software": "Mobile Video Slot by Playtech", "slot_reels": "5 Reels / 20 Paylines", "volatility": "0.01 - 1.00"}
+{"jackpot": "Video Slot", "title": "Book of Ra Slot Review", "bonus": "10 Free Spins / Expanding Scatter Symbols", "coins_range": "0.04 - 4.00", "volatility": "High", "slot_reels": "5 Reels / 9 Paylines", "software": "Mobile Video Slot by Novomatic"}
+{"jackpot": "5 Reels / 25 Paylines", "title": "Halloween Horrors Slot Review", "coins_range": "0.25 / 62.50", "software": "Mobile Video Slot", "slot_reels": "3.7%", "volatility": "0.01 - 0.50"}
+{"jackpot": "Video Slot", "title": "Streak of Luck Slot Review", "bonus": "Up to 60 Free Spins / 2x Multiplier", "coins_range": "0.01 - 0.40", "volatility": "Low/Medium", "slot_reels": "650x your bet", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Video Slot", "title": "Mayan Treasures Slot Review", "bonus": "Start with 5 Free Spins / Up to 5x Multiplier", "coins_range": "0.01 - 10.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by Bally Technologies"}
+{"jackpot": "Video Slot", "title": "Monty Python\u2019s Spamalot Slot Review", "bonus": "10 Free Spins / Extra Wilds", "coins_range": "0.01 - 1.00", "volatility": "Low/Medium", "slot_reels": "Progressive starting at 50,000", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Classic Slot", "title": "Mystery Joker Slot Review", "bonus": "10 Free Spins / Scatters are active", "coins_range": "0.10 - 20", "volatility": "Medium", "slot_reels": "5 Reels / 5 Paylines", "software": "Mobile Classic Slot by Play'nGo"}
+{"jackpot": "Varies according to bet size. Between 500x to 800x you bet.", "title": "Absolute Super Reels Slot Review", "bonus": "Instant cash, Extra Multiplier, Free Spins", "coins_range": "Technically 0.05 but really 0.75 / 37.50", "volatility": "0.01 - 0.50", "slot_reels": "5 Reels / 5 Paylines", "software": "Mobile Classic Slot by iSoftBet"}
+{"jackpot": "5 Reels / 30 Paylines", "title": "Illusions 2 Slot Review", "coins_range": "36,000", "software": "Mobile Video Slot by iSoftBet", "slot_reels": "Low/Medium", "volatility": "0.20 / 4"}
+{"jackpot": "Progressive Jackpot", "title": "Basic Instinct Slot Review", "bonus": "Stacked Wilds, Free Spins & Click Me Feature", "coins_range": "0.50 / 50", "volatility": "0.01 - 0.10", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by iSoftBet"}
+{"jackpot": "Video Slot", "title": "Lady Robin Hood Slot Review", "bonus": "10 Free Spins / 2x Multiplier + Expanded Wilds", "coins_range": "0.01 - 10.00", "volatility": "Low", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by Bally Technologies"}
+{"jackpot": "Video Slot", "title": "Wolf Rising Slot Review", "bonus": "Stacked Wild & Free Spins", "coins_range": "0.01 - 5.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 100 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "It Came From Venus! Slot Review", "bonus": "15,000", "coins_range": "Low", "volatility": "4.2%", "slot_reels": "Progressive Jackpot", "software": "Mobile Video Slot by BetSoft"}
+{"jackpot": "5 Reels / 243 Paylines", "title": "Cash Spin Slot Review", "bonus": "Click Me, Instant Cash, Stacked Wilds & Free Spins", "coins_range": "0.40 / 40", "volatility": "0.01 - 1.00", "slot_reels": "5.85%", "software": "Mobile Video Slot by Bally Technologies"}
+{"jackpot": "Progressive Jackpot", "title": "Jazz of New Orleans Slot Review", "bonus": "Wilds, Scatters, Free Spins, Gamble Feature", "coins_range": "0.01 - 2.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 5 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Wild Wolf Slot Review", "bonus": "5 Free Spins / Richer Reels / No Multipliers", "coins_range": "0.01 - 20", "volatility": "Medium", "slot_reels": "5 Reels / 50 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Progressive Jackpot", "title": "Mr Toad Slot Review", "bonus": "No Free Spins / No Multipliers", "coins_range": "0.01 - 2.00", "volatility": "Low", "slot_reels": "5 Reels / 5 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Age of Discovery Slot Review", "bonus": "Wilds, Scatter and Click Me Bonus", "coins_range": "0.25 / 125", "volatility": "0.01 - 0.50", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "5 Reels / 20 Paylines", "title": "It Came From the Moon! Slot Review", "bonus": "Wilds, Scatters, Click Me Feature", "coins_range": "0.20 / 10", "volatility": "0.01 - 2.00", "slot_reels": "4.88%", "software": "Mobile Video Slot by Realistic Games"}
+{"jackpot": "5 Reels / 25 Paylines", "title": "Bars & Stripes Slot Review", "coins_range": "47,500", "software": "Mobile Video Slot by Microgaming", "slot_reels": "Low", "volatility": "0.25 / 250"}
+{"jackpot": "Video Slot", "title": "The Avengers (Marvel) Slot Review", "bonus": "At least 9 Free Spins / Multipliers Vary", "coins_range": "Medium/High", "volatility": "3.99%", "slot_reels": "4 Progressive Marvel Jackpots", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Video Slot", "title": "Owl Eyes Slot Review", "bonus": "Stacked Wilds, Scatters & Free Spins", "coins_range": "0.01 - 2.00", "volatility": "Low", "slot_reels": "5 Reels / 50 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Progressive into the tens of thousands", "title": "Monster Smash Slot Review", "bonus": "Wilds, Scatters, Free Spins, Wheel of Fortune", "coins_range": "0.01 - 2.00", "volatility": "Low", "slot_reels": "5 Reels / 5 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Plants Vs Zombies Slot Review", "bonus": "500,000", "coins_range": "Low/Medium", "volatility": "5.32%", "slot_reels": "Progressive into the hundreds of thousands", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Havana Cubana Slot Review", "bonus": "5 Free Spins / 3x Multiplier", "coins_range": "0.01 - 1.00", "volatility": "Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by Bally Technologies"}
+{"jackpot": "Video Slot", "title": "Black Widow Slot Review", "bonus": "7 Free Spins / Up to 1,000x your total bet", "coins_range": "0.01 - 30", "volatility": "Low/Medium", "slot_reels": "3 Reels / 40 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Mystic Dreams Slot Review", "bonus": "Up to 20 Free Spins (usually 10) / Up to 24xMultiplier (Usually 3x)", "coins_range": "0.01 - 0.20", "volatility": "Medium", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Dr. Jekyll & Mr. Hyde Slot Review", "bonus": "Average of about 8/10 Free Spins, No Multipliers", "coins_range": "0.02 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile Video Slot by BetSoft"}
+{"jackpot": "3 Progressive Jackpots", "title": "Gem Drop Slot Review", "bonus": "No Free Spins / No Multipliers", "coins_range": "0.01 - 5.00", "volatility": "Low", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Blood Suckers (Touch) Slot Review", "bonus": "10 Free Spins / 3x Multiplier", "coins_range": "0.01 - 0.50", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Bush Telegraph Slot Review", "bonus": "10 Free Spins / 3x Multiplier", "coins_range": "0.01 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "The Grand Journey Slot Review", "bonus": "Stacked wilds, Expanded Wilds, Scatters and Free Spins", "coins_range": "0.30 / 60", "volatility": "0.01 - 0.10", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "The Marvellous Mr Green Slot Review", "bonus": "Indefinite (from 10 to 20 usually) / 2x, 4x and 6x Multiplier", "coins_range": "0.01 - 0.05", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Mega Fortune Dreams (Touch) Slot Review", "bonus": "200,000", "coins_range": "Low/Medium", "volatility": "4.1% - 3.6%", "slot_reels": "Progressive - Into the millions", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Merlin\u2019s Magic Respins Slot Review", "bonus": "7 Free Spins / Extra Wilds & Respins", "coins_range": "0.01 - 0.50", "volatility": "High", "slot_reels": "5 Reels / 50 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Medusa II Slot Review", "bonus": "10 Free Spins / Guaranteed Locked Reels", "coins_range": "0.01 - 2.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Cash Wizard Slot Review", "bonus": "15 Free Spins / 3x Multiplier", "coins_range": "Low", "volatility": "6.01%", "slot_reels": "200x your bet", "software": "Mobile Video Slot by Bally Technologies"}
+{"jackpot": "Video Slot", "title": "Piggy Riches Slot Review", "bonus": "9 - 26 Free Spins / 2 - 6 Multipliers", "coins_range": "0.01 - 0.05", "volatility": "Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Fruit Zen Slot Review", "bonus": "No Free Spins / No Multipliers", "coins_range": "0.01 - 0.50", "volatility": "Low", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by BetSoft"}
+{"jackpot": "Video Slot", "title": "1Can 2Can Slot Review", "bonus": "10 Free Spins / Extra Wilds - No Mulipliers", "coins_range": "0.01 - 2.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "500x your bet", "title": "Dazzling Diamonds Slot Review", "bonus": "Scatters & Adjacent Pays", "coins_range": "0.40 / 40", "volatility": "0.04 - 4.00", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by Novomatic"}
+{"jackpot": "5 Reels / 10 Paylines", "title": "Power Stars Slot Review", "coins_range": "60,000", "software": "Mobile Video Slot by Novomatic", "slot_reels": "Medium/High", "volatility": "0.30 / 30"}
+{"jackpot": "Video Slot", "title": "Quick Hit Platinum Slot Review", "bonus": "150,000", "coins_range": "Low/Medium", "volatility": "5.94%", "slot_reels": "5,000x your bet", "software": "Mobile Video Slot by Bally Technologies"}
+{"jackpot": "Video Slot", "title": "Big Vegas Slot Review", "bonus": "5 Free Spins / 3x Multiplier", "coins_range": "0.01 - 1.00", "volatility": "Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by Bally Technologies"}
+{"jackpot": "Video Slot", "title": "Western Belles Slot Review", "bonus": "5 Free Spins / Richer Reels", "coins_range": "Low/Medium", "volatility": "7.15% to 3.67%", "slot_reels": "25 million coins max payout", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "2,000x Your Bet", "title": "Riverboat Gambler Slot Review", "bonus": "15 Free Spins  / 3x Multiplier", "coins_range": "0.01 - 0.50", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Realistic Games"}
+{"jackpot": "3D Video Slot", "title": "Gypsy Rose Slot Review", "bonus": "Free Spins, Stick Wilds, Expanding Wilds, Click Me Bonus", "coins_range": "0.02 - 1.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile 3D Video Slot by BetSoft"}
+{"jackpot": "Video Slot", "title": "Enchanted Crystals Slot Review", "bonus": "12 Free Spins / Extra Wilds with 2x Multipliers", "coins_range": "0.20 - 50.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Golden Tour Slot Review", "bonus": "No Free Spins or Multipliers", "coins_range": "0.01 - 1.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 5 Paylines", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Video Slot", "title": "300 Shields Slot Review", "bonus": "Up to 20 Free Spins / Up to 300x Multiplier", "coins_range": "High", "volatility": "4.7%", "slot_reels": "300,000 coins", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Mad Hatters Slot Review", "bonus": "Up to 50 Free Spins / 2x Multiplier", "coins_range": "0.01 - 0.10", "volatility": "Low", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Leprechaun Goes Egypt Slot Review", "bonus": "Click Me Feature, Free Spins, Scatters & Wilds", "coins_range": "0.01 - 1.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Beach Babes Slot Review", "bonus": "Wilds, Scatters and Free Spins", "coins_range": "0.25 / 50", "volatility": "0.01 - 0.20", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "A While on The Nile Slot Review", "bonus": "5 Free Spins / Up to 10x Multipliers", "coins_range": "0.01 - 0.50", "volatility": "High", "slot_reels": "5 Reels / 50 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Wild Huskies Slot Review", "bonus": "Up to 50 Free Spins / 3x Multiplier", "coins_range": "0.01 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by Bally Technologies"}
+{"jackpot": "Video Slot", "title": "Cupid & Psyche Slot Review", "bonus": "Stacked Wilds, Scatters & Free Spins", "coins_range": "0.01 - 1.00", "volatility": "Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by Bally Technologies"}
+{"jackpot": "Video Slot", "title": "Football Carnival Slot Review", "bonus": "Stacked Symbols, Wilds, Scatters & Free Spins", "coins_range": "0.50 / 50", "volatility": "0.01 - 1.00", "slot_reels": "5 Reels / 50 Paylines", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Video Slot", "title": "Pink Panther Slot Review", "bonus": "Wilds, Scatters, Free Spins and Random Mini-Games", "coins_range": "0.01 - 1.00", "volatility": "Low", "slot_reels": "Progressive Jackpot", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "5 Reels / 10 Paylines", "title": "Lord of the Ocean Slot Review", "bonus": "Wilds, Scatters & Free Spins", "coins_range": "0.40 / 40", "volatility": "0.04 - 4", "slot_reels": "4.88%", "software": "Mobile Video Slot by Novomatic"}
+{"jackpot": "Classic Slot", "title": "Jackpot Jester 50000 Slot Review", "bonus": "No Free Spins / No Multipliers", "coins_range": "Medium", "volatility": "4.92%", "slot_reels": "50,000", "software": "Mobile Classic Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Football Star Slot Review", "bonus": "Up to 25 Free Spins / Up to 10x Multiplier", "coins_range": "0.01 - 0.10", "volatility": "Low/Medium", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Lights (Touch) Slot Review", "bonus": "Up to 30 Free Spins / Extra Wilds on the reels", "coins_range": "0.01 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 9 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Extra Cash Slot Review", "bonus": "Up to 20 free spins / Extra wilds but no multipliers", "coins_range": "0.01", "volatility": "Low/Medium", "slot_reels": "5 Reels / 50 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Highway Kings Slot Review", "bonus": "20,000", "coins_range": "Medium/High", "volatility": "5.01%", "slot_reels": "180,000", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Video Slot", "title": "Dragon Drop Slot Review", "bonus": "8 Free Spins / 2x Multiplier", "coins_range": "0.01 - 2.00", "volatility": "Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Which Witch Slot Review", "bonus": "Up to 100 Free Spins / No Multipliers", "coins_range": "0.10 - 1.00", "volatility": "Low", "slot_reels": "Progressive Jackpot", "software": "Mobile Video Slot by mFortune"}
+{"jackpot": "Video Slot", "title": "Golden Goddess Slot Review", "bonus": "7 Free Spins / No Multipliers", "coins_range": "0.01 - 3.00", "volatility": "Low", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Aliens (Touch) Slot Review", "bonus": "15 Free Spins / Numerous Multipliers", "coins_range": "0.01 - 1.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "5 Reels / 10 Paylines", "title": "Just Jewels Deluxe Slot Review", "coins_range": "0.40 / 40", "software": "Mobile Video Slot by Novomatic", "slot_reels": "95.42%", "volatility": "0.04 - 4.00"}
+{"jackpot": "Video Slot", "title": "Fairy Queen Slot Review", "bonus": "10 Free Spins / No Multipliers but win on every spin", "coins_range": "0.04 - 4.00", "volatility": "High", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by Novomatic"}
+{"jackpot": "Video Slot", "title": "Sushi Bar Slot Review", "bonus": "up to 20 Free Spins / 2x Multiplier", "coins_range": "0.02 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by BetSoft"}
+{"jackpot": "Video Slot", "title": "Chinese New Year Slot Review", "bonus": "Wilds, Scatters, Free Spins & Gamble feature", "coins_range": "0.01 - 0.25", "volatility": "Low/Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Cluedo Classic Slot Review", "bonus": "15 Free Spins / 3x Multiplier", "coins_range": "0.01 - 10.00", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Dolphin\u2019s Pearl Deluxe Slot Review", "bonus": "Wild, Scatters & Free Spins", "coins_range": "0.04 - 4", "volatility": "Medium/High", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by Novomatic"}
+{"jackpot": "Video Slot", "title": "Lady of Fortune Slot Review", "bonus": "No Free Spins / Multipliers", "coins_range": "0.01 - 1.00", "volatility": "Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "Video Slot", "title": "Madder Scientist Slot Review", "bonus": "Wild, Pick Me Bonus, Reel Respins,", "coins_range": "0.02 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile Video Slot by BetSoft"}
+{"jackpot": "Video Slot", "title": "High Society Slot Review", "bonus": "Up to 20 Free Spins / Up to 10x Multipliers", "coins_range": "0.01 - 0.10", "volatility": "Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "5 Reels / 5 Paylines", "title": "Sizzling Hot Deluxe Slot Review", "coins_range": "0.40 / 40", "software": "Mobile Video Slot by Novomatic", "slot_reels": "95.66%", "volatility": "0.08 - 8.00"}
+{"jackpot": "Classic Slot", "title": "Eagle\u2019s Wings Slot Review", "bonus": "Up to 60 free spins / 3x multiplier", "coins_range": "0.01 - 0.25", "volatility": "Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Classic Slot by Microgaming"}
+{"jackpot": "3D Video Slot", "title": "More Gold Diggin\u2019 Slot Review", "bonus": "Free Spins with Multipliers", "coins_range": "0.02 - 1.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile 3D Video Slot by BetSoft"}
+{"jackpot": "3D Video Slot", "title": "The Curious Machine Slot Review", "bonus": "12,500", "coins_range": "Low", "volatility": "4.5%", "slot_reels": "March 2014 (on mobile)", "software": "Mobile 3D Video Slot by BetSoft"}
+{"jackpot": "Video Slot", "title": "Big Bang (Touch) Slot Review", "bonus": "No Free Spins", "coins_range": "0.01 - 0.50", "volatility": "Low", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "3D Video Slot", "title": "Under the Sea Slot Review", "bonus": "Wilds, Free Spins & Click Me Bonus", "coins_range": "0.02 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile 3D Video Slot by BetSoft"}
+{"jackpot": "5 Reels / 10 Paylines", "title": "Lucky Lady\u2019s Charm Deluxe Slot Review", "coins_range": "0.40 / 40", "software": "Mobile Video Slot by Novomatic", "slot_reels": "3%", "volatility": "0.04 \u2013 4"}
+{"jackpot": "12,800,000", "title": "Book of Ra Deluxe Slot Review", "bonus": "Scatter Wilds and Free Spins", "coins_range": "0.04 - 4", "volatility": "Medium/High", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by Novomatic"}
+{"jackpot": "Video Slot", "title": "Siberian Storm Slot Review", "bonus": "Wilds, Scatters & Free Spins", "coins_range": "0.50 / 500", "volatility": "Medium", "slot_reels": "5 Reels / 720 Ways to Win", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Unicorn Legend Slot Review", "bonus": "10 to 20 Free spins / 2 to 12 x Multipliers", "coins_range": "0.01 - 2.00", "volatility": "Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "3D Video Slot", "title": "Good Girl, Bad Girl Slot Review", "bonus": "Varying / No Multipliers", "coins_range": "0.02 - 1.00", "volatility": "Medium", "slot_reels": "Progressive Jackpot", "software": "Mobile 3D Video Slot by BetSoft"}
+{"jackpot": "Video Slot", "title": "The Twisted Circus Slot Review", "bonus": "13 Free Spins / 3x Multipliers", "coins_range": "0.01 - 0.20", "volatility": "Medium", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Mayan Princess Slot Review", "bonus": "Wilds & Free Spins", "coins_range": "0.20 / 40", "volatility": "0.01 - 0.20", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Twin Spin (Touch) Slot Review", "bonus": "No Free Spins / No Multipliers", "coins_range": "0.01 - 0.05", "volatility": "Medium/High", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Puppy Love Slot Review", "coins_range": "50,000", "software": "Mobile Video Slot by BetSoft", "slot_reels": "5 Reels / 20 Paylines", "volatility": "0.40 / 100"}
+{"jackpot": "Video Slot", "title": "Easy Slider Slot Review", "coins_range": "12,000", "software": "Mobile Video Slot by NextGen", "slot_reels": "5 Reels / 25 Paylines", "volatility": "0.25 / 50"}
+{"jackpot": "Video Slot", "title": "Burger Man Slot Review", "bonus": "Click Me, Free Spins, Wilds", "coins_range": "0.90 / 9", "volatility": "0.10 - 1.00", "slot_reels": "Progressive Jackpot", "software": "Mobile Video Slot by mFortune"}
+{"jackpot": "Video Slot", "title": "Mega Fortune (Touch) Slot Review", "bonus": "108,100 in cash (not including progressive jackpot)", "coins_range": "Medium", "volatility": "3.4%", "slot_reels": "Progressive Jackpot", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "5 Reels / 5 Paylines", "title": "Money Bee Slot Review", "coins_range": "10 Free Spins / No Multipliers", "software": "Mobile Video Slot by iGaming2Go", "slot_reels": "0.10 - 5.00", "volatility": "5,000"}
+{"jackpot": "Video Slot", "title": "Transformers: Battle for Cybertron Slot Review", "bonus": "Mystery Symbols, Cascading Reels and Free Spins", "coins_range": "0.01 - 3.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Monopoly Dream Life Slot Review", "bonus": "Up to 16 Free Spins / no multipliers", "coins_range": "Low/Medium", "volatility": "5.56%", "slot_reels": "25,000,000 (yeap, 25 million cash, not coins)", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Potion Commotion Slot Review", "bonus": "Free Spins", "coins_range": "0.20 / 40", "volatility": "0.01 - 2.00", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "5 Reels / 30 Paylines", "title": "Deck the Halls Slot Review", "bonus": "Free Spins & Stacked Symbols", "coins_range": "0.30 / 300", "volatility": "0.01 - 0.24", "slot_reels": "4% - 5%", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "3D Video Slot", "title": "The True Sheriff Slot Review", "bonus": "10 -15 Free Spins / Instant Wins", "coins_range": "0.02 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile 3D Video Slot by BetSoft"}
+{"jackpot": "5 Reels / 30 Paylines", "title": "True Illusions Slot Review", "bonus": "Free Spins, Click Me & Expanded Wild", "coins_range": "0.60 / 150", "volatility": "0.2 - 1.00", "slot_reels": "4.66%", "software": "Mobile 3D Video Slot by BetSoft"}
+{"jackpot": "3D Video Slot", "title": "A Night in Paris Slot Review", "coins_range": "0.60 / 150", "software": "Mobile 3D Video Slot by BetSoft", "slot_reels": "5 Reels / 30 Paylines", "volatility": "0.02 - 1.00"}
+{"jackpot": "Progressive Jackpot", "title": "Vegas Vegas Slot Review", "coins_range": "9 Free Spins / No Multipliers", "software": "Mobile Classic Slot by mFortune", "slot_reels": "5 Reels / 9 Paylines", "volatility": "0.90 / 9.00"}
+{"jackpot": "Video Slot", "title": "Crown of Egypt Slot Review", "bonus": "Wild, Scatters & Free Spins", "coins_range": "0.01 - 100", "volatility": "Low/Medium", "slot_reels": "5 Reels / 1024 Ways to Win", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "5,000 Coins", "title": "Dungeons & Dragons: Crystal Caverns Slot Review", "bonus": "Wilds, Tumbling Reels & Free Spins", "coins_range": "0.01 - 300", "volatility": "Low/Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "South Park (Touch) Slot Review", "bonus": "10 Free Spins / up to 10x Multiplier", "coins_range": "Medium", "volatility": "3.3%", "slot_reels": "\u00a3/$/\u20ac69,500", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Magic Portals (Touch) Slot Review", "bonus": "10 Free Spins / Extra Portals for more Wilds", "coins_range": "0.01 - 1.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "3D Video Slot", "title": "Greedy Goblins Slot Review", "bonus": "25 Free Spins / up to 10X Multiplier", "coins_range": "Low", "volatility": "2.8%", "slot_reels": "Progressive Jackpot", "software": "Mobile 3D Video Slot by BetSoft"}
+{"jackpot": "5 Reels / 50 Paylines", "title": "Grand Monarch Slot Review", "coins_range": "0.50 / 500", "software": "Mobile Video Slot by IGT", "slot_reels": "5.03%", "volatility": "0.01 to 10.00"}
+{"jackpot": "Classic Slot", "title": "Break da Bank Slot Review", "bonus": "No Free Spins / Multipliers", "coins_range": "1.00 - 25.00 coins", "volatility": "Medium/High", "slot_reels": "3 Reels / 5 Paylines", "software": "Mobile Classic Slot by Microgaming"}
+{"jackpot": "5 Reels / 40 Paylines", "title": "Wolf Run Slot Review", "coins_range": "0.40 / 400", "software": "Mobile Video Slot by IGT", "slot_reels": "5.02%", "volatility": "0.01 - 10.00"}
+{"jackpot": "5 Reels / 99 Paylines", "title": "Pixies of the Forest Slot Review", "coins_range": "0.33 / 990", "software": "Mobile Video Slot by IGT", "slot_reels": "5.08%", "volatility": "0.01"}
+{"jackpot": "5 Reels / 30 Paylines", "title": "Kitty Glitter Slot Review", "coins_range": "0.30 / 150", "software": "Mobile Video Slot by IGT", "slot_reels": "5.08%", "volatility": "0.01 - 5.00"}
+{"jackpot": "\u00a3/$/\u20ac 96,240", "title": "Reel Rush Touch Slot Review", "bonus": "8 Free Spins / 3125 ways to win", "coins_range": "0.01 - 0.20", "volatility": "Medium", "slot_reels": "5 Reels / 3125 Ways to Win", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "2,500,000 Coins", "title": "Thunderstruck II Slot Review", "bonus": "25 Free Spins / Varying Multipliers", "coins_range": "0.01 - 0.05", "volatility": "Medium", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "25,000,000", "title": "Treasures of Troy Slot Review", "bonus": "Multi-Way Extra, Wilds and Free Spins", "coins_range": "0.01 - 10.00", "volatility": "Medium", "slot_reels": "5 Reels / 1024 Ways to Win", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "4,000 coins", "title": "Foxin\u2019 Wins Slot Review", "coins_range": "0.50  with superbet level 2, 0.35  with superbet 1 and 0.25 with no superbet / \u00a3/$/\u20ac100 with superbet level 2, \u00a3/$/\u20ac75 with superbet 1 and \u00a3/$/\u20ac50 with no superbet", "software": "Mobile Video Slot by NextGen", "slot_reels": "5 Reels / 25 Paylines", "volatility": "0.01 - 2.00"}
+{"jackpot": "5 Reels / 20 Paylines", "title": "Frankenstein Touch Slot Review", "bonus": "Connecting Wilds", "coins_range": "0.20 / 100", "volatility": "0.01 - 0.50", "slot_reels": "3.3%", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "5 Reels / 15 Paylines", "title": "Fruit Shop Slot Review", "bonus": "Wilds & Free Spins Round", "coins_range": "0.15 / 150", "volatility": "0.01 to 1.00", "slot_reels": "3.3%", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "12,500 Coins", "title": "Rooks Revenge Slot Review", "coins_range": "20 Free Spins / 10X Multiplier", "software": "Mobile 3D Video Slot by BetSoft", "slot_reels": "5 Reels / 25 Paylines", "volatility": "0.50 / 62.50"}
+{"jackpot": "2,500 Coins", "title": "Safari Sam Slot Review", "coins_range": "10 Free Spins / 2X Multiplier", "software": "Mobile 3D Video Slot by BetSoft", "slot_reels": "5 Reels / 30 Paylines", "volatility": "0.60 / 150"}
+{"jackpot": "5,000 Coins", "title": "Ninja Fruits Slot Review", "bonus": "Yes - Click Me, Gamble Feature, Free Spins", "coins_range": "0.01 to 0.25", "volatility": "High", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "3,645,000 Coins", "title": "Immortal Romance Slot Review", "bonus": "25 Free Spins / Varying Multipliers", "coins_range": "0.01 - 0.02", "volatility": "Medium", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "105,000 Coins", "title": "Under the Bed Slot Review", "coins_range": "12 Free Spins / 2x Multiplier", "software": "Mobile Video Slot by BetSoft", "slot_reels": "5 Reels / 10 Paylines", "volatility": "0.02 - 75.00"}
+{"jackpot": "Video Slot", "title": "Disco Spins Slot Review", "bonus": "230,000", "coins_range": "Low/Medium", "volatility": "3.6%", "slot_reels": "30,000 Coins", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "5,000 Coins", "title": "Rich Wilde and the Aztec Idols Slot Review", "coins_range": "0.15 / 18.75", "software": "Mobile Video Slot by Play'nGo", "slot_reels": "5 Reels / 20 Paylines", "volatility": "0.01 - 0.25"}
+{"jackpot": "4,500", "title": "Cat & Mouse Slot Review", "coins_range": "Yes", "software": "Mobile Classic Slot by mFortune", "slot_reels": "5 Reels / 9 Paylines", "volatility": "9 Free Spins / No Multipliers"}
+{"jackpot": "70,000 Coins", "title": "Mad Mad Monkey Slot Review", "coins_range": "Yes", "software": "Mobile Video Slot by NextGen", "slot_reels": "5 Reels / 50 Paylines", "volatility": "10 Free Spins / 3x Multipliers"}
+{"jackpot": "5,000 Coins", "title": "Merlin\u2019s Millions Slot Review", "coins_range": "Yes", "software": "Mobile Video Slot by NextGen", "slot_reels": "5 Reels / 50 Paylines", "volatility": "5 Free Spins / No Multipliers"}
+{"jackpot": "5 Reels / 30 Paylines", "title": "The Slotfather Slot Review", "coins_range": "20 Free Spins / 7x Multipliers", "software": "Mobile Video Slot by BetSoft", "slot_reels": "4.31%", "volatility": "0.60 / 150.00"}
+{"jackpot": "Progressive Jackpot", "title": "At the Copa Slot Review", "bonus": "Yes", "coins_range": "0.02 - 75.00", "volatility": "Medium", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile Video Slot by BetSoft"}
+{"jackpot": "3 Reels / 3 Paylines", "title": "Fruit Machine Slot Review", "coins_range": "Holds", "software": "Mobile Classic Slot by mFortune", "slot_reels": "0.10 - 3.30", "volatility": "4,500"}
+{"jackpot": "4,500 Coins", "title": "Monte Carlo Slot Review", "coins_range": "Yes", "software": "Mobile Classic Slot by mFortune", "slot_reels": "5 Reels / 9 Paylines", "volatility": "9 Free Spins / No Multipliers"}
+{"jackpot": "4,500 Coins", "title": "Pirates Treasure Slot Review", "coins_range": "Yes", "software": "Mobile Classic Slot by mFortune", "slot_reels": "5 Reels / 9 Paylines", "volatility": "9 Free Spins / No Multipliers"}
+{"jackpot": "Progressive Jackpot", "title": "Snakes & Ladders Slot Review", "coins_range": "Yes - Snakes and Ladders Mini Game & Free Spins", "software": "Mobile Classic Slot by mFortune", "slot_reels": "5 Reels / 9 Paylines", "volatility": "9 Free Spins / No Multipliers"}
+{"jackpot": "5 Reels / 25 Paylines", "title": "Genie Wild Slot Review", "coins_range": "Free Spins & Expanding Wilds", "software": "Mobile Video Slot by NextGen", "slot_reels": "0.01 - 2.00", "volatility": "10 Free Spins / No Multipliers"}
+{"jackpot": "5 Reels / 15 Paylines", "title": "Lucky Angler Slot Review", "bonus": "Sticky Wild, Scatters & Free Spins,", "coins_range": "0.30 / 150", "volatility": "0.01 - 0.05", "slot_reels": "3.6%", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "30,000 Coins", "title": "Wild Blood Slot Review", "bonus": "Yes", "coins_range": "0.01 - 18.75", "volatility": "Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "10,000 Coins", "title": "Agent Jane Blonde Slot Review", "bonus": "Free Spins  & Gamble Feature", "coins_range": "0.02 - 2.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 9 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "5 Reels / 243 Paylines", "title": "Burning Desire Slot Review", "bonus": "Yes", "coins_range": "0.25 / 250", "volatility": "0.01 - 1.00", "slot_reels": "4%", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "225,000 Coins plus 4 Progressive Jackpots", "title": "Mega Moolah Slot Review", "bonus": "Yes", "coins_range": "0.01 - 0.05", "volatility": "Low", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "2,500 Coins", "title": "Riches of Ra Slot Review", "bonus": "Yes", "coins_range": "0.01 - 0.25", "volatility": "High", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "10,000 Coins", "title": "Irish Eyes Slot Review", "coins_range": "Yes", "software": "Mobile Video Slot by NextGen", "slot_reels": "5 Reels / 25 Paylines", "volatility": "12 Free Spins / 3X Multiplier"}
+{"jackpot": "2,500 Coins", "title": "Enchanted Meadow Slot Review", "coins_range": "0.01 - 5.00", "software": "Mobile Video Slot by Play'nGo", "slot_reels": "5 Reels / 20 Paylines", "volatility": "Medium"}
+{"jackpot": "Progressive Jackpot", "title": "Mr Vegas Slot Review", "coins_range": "Yes", "software": "Mobile Video Slot by BetSoft", "slot_reels": "5 Reels / 30 Paylines", "volatility": "12 Free Spins / 2X Multiplier"}
+{"jackpot": "5,000 Coins", "title": "Dragon Ship Slot Review", "bonus": "Yes", "coins_range": "0.01 - 0.25", "volatility": "High", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "5 Reels / 20 Paylines", "title": "Gonzo\u2019s Quest Slot Review", "bonus": "Wilds, Tumbling Reels & Free Spins", "coins_range": "0.20 / 50", "volatility": "0.01 - 1.00", "slot_reels": "4%", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "5 Reels / 20 Paylines", "title": "Fortune Teller Slot Review", "coins_range": "0.20 / 25.00", "software": "Mobile Video Slot by Play'nGo", "slot_reels": "5.83%", "volatility": "0.01 - 0.05"}
+{"jackpot": "12,500 Coins", "title": "Jolly Roger Slot Review", "coins_range": "No Free Spins or Multipliers", "software": "Mobile Video Slot by Play'nGo", "slot_reels": "5 Reels / 15 Paylines", "volatility": "0.25 - 1.25"}
+{"jackpot": "5 Reels / 20 Paylines", "title": "Pearl Lagoon Slot Review", "coins_range": "5,000 Coins", "software": "Mobile Video Slot by Play'nGo", "slot_reels": "3.12%", "volatility": "0.20 / 25"}
+{"jackpot": "5 Reels / 15 Paylines", "title": "Mermaids Millions Slot Review", "bonus": "Yes", "coins_range": "0.30 / 150.00", "volatility": "0.02 - 2.00", "slot_reels": "3.5%", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "5 Reels / 25 Paylines", "title": "Jack Hammer (Touch) Slot Review", "bonus": "Sticky Wins, Wilds, Scatters & Free Spins", "coins_range": "0.25 / 250", "volatility": "0.01 to 1.00", "slot_reels": "3%", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "5 Reels / 10 Paylines", "title": "Starburst (Touch) Slot Review", "bonus": "Starburst Wilds & Free Respins", "coins_range": "0.10 / 100", "volatility": "0.01 to 1.00", "slot_reels": "3.9%", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Starmania Slot Review", "bonus": "10 Free Spins / Extra Stacked Wilds", "coins_range": "0.01 - 2.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Elementium Slot Review", "coins_range": "0.10 / 12.50", "software": "Mobile Video Slot", "slot_reels": "5 Reels / 10 Paylines", "volatility": "0.01 - 0.25"}
+{"jackpot": "Video Slot", "title": "Flux Slot Review", "bonus": "Free Spins, Stacked Wilds, Extra Rows", "coins_range": "Low/Medium", "volatility": "3.8%", "slot_reels": "36,000", "software": "Mobile Video Slot by Thunderkick"}
+{"jackpot": "Video Slot", "title": "Esmeralda Slot Review", "bonus": "Free Spins, Wilds, Stacked Scatters", "coins_range": "0.01 - 1.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Video Slot", "title": "Magicious Slot Review", "bonus": "Up to 3 Respins / Expanded Wilds", "coins_range": "0.01 - 10.00", "volatility": "Low", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by Thunderkick"}
+{"jackpot": "Video Slot", "title": "Razortooth Slot Review", "coins_range": "0.25 / 100", "software": "Mobile Video Slot by Quickspin", "slot_reels": "5 Reels / 243 Paylines", "volatility": "Medium"}
+{"jackpot": "Video Slot", "title": "Bridesmaids Slot Review", "bonus": "10 Free Spins / Additional Bonuses", "coins_range": "0.01 - 0.10", "volatility": "Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Taxi Slot Review", "bonus": "Starts with 10 Free Spins / Extra Wilds", "coins_range": "0.01 - 5.00", "volatility": "Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Leander Games"}
+{"jackpot": "5 Reels / 20 Paylines", "title": "Draglings Slot Review", "bonus": "Expanding Wilds, Spreading Wilds, Win Both Ways, Free Spins", "coins_range": "0.20 / 40", "volatility": "0.005 - 1.00", "slot_reels": "5.6%", "software": "Mobile Video Slot by Yggdrasil"}
+{"jackpot": "Video Slot", "title": "Doubles Slot Review", "bonus": "Up to 40 Free Spins / One Double Symbol Always", "coins_range": "0.01 - 2.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Yggdrasil"}
+{"jackpot": "Video Slot", "title": "Thor Slot Review", "bonus": "80,000 on a single payline", "coins_range": "Medium", "volatility": "4.5%", "slot_reels": "4 Progressive Jackpots", "software": "Mobile Video Slot by Playtech"}
+{"jackpot": "Video Slot", "title": "Sherlock Slot Review", "bonus": "up to 9 Free Spins / No Multipliers", "coins_range": "0.02 - 11.00", "volatility": "Low/Medium", "slot_reels": "A few thousands", "software": "Mobile Video Slot by mFortune"}
+{"jackpot": "Video Slot", "title": "Arcader Slot Review", "bonus": "Expanding Symbols, Wilds, Free Spins, Click Me Bonus, Sticky Wilds", "coins_range": "0.20 / 100", "volatility": "Medium/High", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Thunderkick"}
+{"jackpot": "Video Slot", "title": "Gunsmoke Slot Review", "coins_range": "0.40 / 160", "software": "Mobile Video Slot", "slot_reels": "5 Reels / 20 Paylines", "volatility": "0.02 - 8.00"}
+{"jackpot": "5 Reels / 25 Paylines", "title": "Rocky Slot Review", "coins_range": "0.25 / 10", "software": "Mobile Video Slot by Playtech", "slot_reels": "12% - 4%", "volatility": "0.01 - 0.40"}
+{"jackpot": "Video Slot", "title": "Glow Slot Review", "bonus": "Mutliplie Free Spins / Up to 4x Multipliers", "coins_range": "0.01 - 1.00", "volatility": "Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "SunTide Slot Review", "bonus": "15 Free Spins / Expanded Wilds on 3 Reels", "coins_range": "0.01 - 0.50", "volatility": "Medium", "slot_reels": "5 Reels / 9 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Titanic Slot Review", "bonus": "Up to 30 Free Spins / Up to 5x Multiplier", "coins_range": "0.01 - 2.50", "volatility": "Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Bally Technologies"}
+{"jackpot": "5 Reels / 20 Paylines", "title": "Extinction Slot Review", "bonus": "Stacked wilds, free spins, scatters", "coins_range": "0.20 / 20", "volatility": "0.01 - 1.00", "slot_reels": "4.85%", "software": "Mobile Video Slot"}
+{"jackpot": "5 Reels / 20 Paylines", "title": "Heroic Slot Review", "bonus": "Wilds and Free Spins", "coins_range": "0.20 / 1,000", "volatility": "0.01 - 50", "slot_reels": "4.54%", "software": "Mobile Video Slot by Nektan"}
+{"jackpot": "Video Slot", "title": "Pyrons Slot Review", "bonus": "No Free Spins or Multipliers", "coins_range": "0.01", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Yggdrasil"}
+{"jackpot": "5 Reels / 30 Paylines", "title": "Montezuma Slot Review", "bonus": "Free spins, scatters, wilds, multipliers", "coins_range": "0.30 / 60", "volatility": "0.01 - 2.00", "slot_reels": "4.18%", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "5 Reels / 30 Paylines", "title": "Platoon Slot Review", "coins_range": "9,000", "software": "Mobile Video Slot by iSoftBet", "slot_reels": "Low", "volatility": "0.30 / 300"}
+{"jackpot": "5 Reels / 40 Paylines", "title": "Sinbad Slot Review", "coins_range": "0.40 / 80", "software": "Mobile Video Slot by Quickspin", "slot_reels": "2.97%", "volatility": "0.01 - 2.00"}
+{"jackpot": "5 Reels / 20 Paylines", "title": "Kronos Slot Review", "bonus": "Wilds, Free Spins, Scatters", "coins_range": "0.20 / 60", "volatility": "0.01 - 3.00", "slot_reels": "4.06%", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "5 Reels / 25 Paylines", "title": "Zorro Slot Review", "coins_range": "0.35 with Zorro Bonus, 0.25 without / 75 with Zorro Bonus, 50 without", "software": "Mobile Video Slot by Aristocrat", "slot_reels": "4.5%", "volatility": "0.01 - 2.00"}
+{"jackpot": "25,000", "title": "Akaneiro Slot Review", "bonus": "Click Me, Free Spins, Wilds", "coins_range": "0.01 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Stickers Slot Review", "bonus": "1 Free spin on each wild", "coins_range": "0.01 - 1.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "5 Reels / 30 Paylines", "title": "Zeus Slot Review", "bonus": "Wilds, Scatters, Free Spins", "coins_range": "0.30 / 150", "volatility": "0.01 - 5.00", "slot_reels": "4.03%", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Video Slot", "title": "Psycho Slot Review", "bonus": "Up to 20 Free Games / Up to 40x Multiplier", "coins_range": "0.01 - 2.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Harveys Slot Review", "bonus": "30 Free Spins / 25x Multipliers", "coins_range": "0.01 - 0.20", "volatility": "Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Chibeasties Slot Review", "bonus": "Scatters, Wilds, Expanded Eymbols", "coins_range": "0.01 - 2.00", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Yggdrasil"}
+{"jackpot": "5 Reels / 25 Paylines", "title": "Firestorm Slot Review", "bonus": "Sticky Wilds, Staked Wilds, Multipliers, Re-Spins", "coins_range": "0.25 / 100", "volatility": "0.01 - 4.00", "slot_reels": "3.43%", "software": "Mobile Video Slot by Quickspin"}
+{"jackpot": "Video Slot", "title": "Ragnarok Slot Review", "bonus": "Wilds, Scatter, Free Spins, Click Me Bonus", "coins_range": "0.01 - 2.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Genesis"}
+{"jackpot": "Video Slot", "title": "Cashville Slot Review", "bonus": "None", "coins_range": "0.01 - 0.20", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Sparks Slot Review", "bonus": "None", "coins_range": "0.01 - 2.00", "volatility": "Low", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "Video Slot", "title": "Ariana Slot Review", "bonus": "15 Free Spins / No Multipliers", "coins_range": "0.01 - 0.50", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Illuminous Slot Review", "bonus": "Starts at 5 Free Spins / Extra Wilds on Reels", "coins_range": "0.01", "volatility": "Low", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by Quickspin"}
+{"jackpot": "3D Video Slot", "title": "Lost Slot Review", "bonus": "Reel Re-Spin, Click Me Feature, Expanded Wild", "coins_range": "0.02 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile 3D Video Slot by BetSoft"}
+{"jackpot": "Video Slot", "title": "Robotnik Slot Review", "bonus": "No Free Spins / No Multipliers", "coins_range": "0.01", "volatility": "Low/Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by Yggdrasil"}
+{"jackpot": "Video Slot", "title": "Heist Slot Review", "bonus": "Interchangeable (mostly around 5 to 8) / No Multipliers", "coins_range": "0.02 - 1.00", "volatility": "Low", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile Video Slot by BetSoft"}
+{"jackpot": "500x your overall bet", "title": "Snapshot Slot Review", "bonus": "10 Free Spins / Random 2x Multiplier", "coins_range": "0.01 - 2.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Realistic Games"}
+{"jackpot": "Video Slot", "title": "Summertime Slot Review", "bonus": "15 Free Spins / 3x Multiplier", "coins_range": "0.01 - 1.00", "volatility": "Medium", "slot_reels": "5 Reels / 9 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Hitman Slot Review", "bonus": "18 Free Spins / 2x Multipliers", "coins_range": "0.01 - 0.25", "volatility": "Low/Medium", "slot_reels": "5 Reels / 15 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Fruitoids Slot Review", "bonus": "Sticky Wins & Multipliers", "coins_range": "0.0032 (yes this is correct, we didn't have a stroke) - 2", "volatility": "Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Yggdrasil"}
+{"jackpot": "20,000 your line bet", "title": "Bejeweled Slot Review", "bonus": "No Free Spins / No Multipliers", "coins_range": "0.01 - 10.00", "volatility": "Low", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Kathmandu Slot Review", "bonus": "15 Free Spins / Random Multiplier up to 5x", "coins_range": "0.01 - 0.50", "volatility": "Low", "slot_reels": "5 Reels / 9 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "5 Reels / 100 Paylines", "title": "Spartacus Slot Review", "bonus": "Stacked Symbols, Stacked Wilds, Free Spins", "coins_range": "0.50 / 250", "volatility": "0.01 - 5.00", "slot_reels": "4.06%", "software": "Mobile Video Slot by WMS"}
+{"jackpot": "Video Slot", "title": "Gemix Slot Review", "bonus": "Cascading Reels", "coins_range": "0.01 - 10", "volatility": "Low", "slot_reels": "5 Reels / All Ways Pay", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "5 Reels / 25 Paylines", "title": "Lucky88 Slot Review", "coins_range": "0.30 / 60", "software": "Mobile Video Slot by Aristocrat", "slot_reels": "3%", "volatility": "0.01 - 2.00"}
+{"jackpot": "Video Slot", "title": "SugarPop! Slot Review", "coins_range": "0.01 - 1.00", "software": "Mobile Video Slot by BetSoft", "slot_reels": "5 Reels / All Ways Pay", "volatility": "Low"}
+{"jackpot": "Video Slot", "title": "Gold Slot Review", "bonus": "Scatters, Wilds & Free Spins", "coins_range": "0.20 / 500", "volatility": "0.01 - 25.00", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "Video Slot", "title": "Robyn Slot Review", "bonus": "12 Free Spins / Extra Wilds", "coins_range": "0.25 - 25.00", "volatility": "Low", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot"}
+{"jackpot": "Video Slot", "title": "Pandamania Slot Review", "bonus": "10 Free Spins / 2x Multiplier", "coins_range": "0.01 - 2.00", "volatility": "Low", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by NextGen"}
+{"jackpot": "Video Slot", "title": "Balloonies Slot Review", "bonus": "Wilds, Multipliers, & Free Spins", "coins_range": "0.01 - 30.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "Video Slot", "title": "Pimped Slot Review", "bonus": "Up to 20 Free Spins / Guaranteed win every time", "coins_range": "0.01 - 2.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 10 Paylines", "software": "Mobile Video Slot by Play'nGo"}
+{"jackpot": "3D Video Slot", "title": "Extreme Slot Review", "coins_range": "50,000", "software": "Mobile 3D Video Slot by Sheriff Gaming", "slot_reels": "5 Reels / 20 Paylines", "volatility": "0.20 / 50"}
+{"jackpot": "3 Reels / 5 Paylines", "title": "5xMagic Slot Review", "bonus": "Scatters, Wilds & Multipliers", "coins_range": "0.50 / 25", "volatility": "0.10 - 1.00", "slot_reels": "4.58%", "software": "Mobile Classic Slot by Play'nGo"}
+{"jackpot": "Classic Slot", "title": "Seven\u2019s Slot Review", "coins_range": "6,000", "software": "Mobile Classic Slot by iGaming2Go", "slot_reels": "3 Reels / 5 Paylines", "volatility": "1 / 20"}
+{"jackpot": "Video Slot", "title": "Battleship Slot Review", "bonus": "Scatter, Expanded Wilds and Free Spins", "coins_range": "0.01 - 10", "volatility": "Medium", "slot_reels": "5 Reels / 40 Paylines", "software": "Mobile Video Slot by IGT"}
+{"jackpot": "3D Video Slot", "title": "Energoonz Slot Review", "bonus": "Up to 20 Free Spins / Up to 5x Multiplier", "coins_range": "Low", "volatility": "3.27%", "slot_reels": "40,000", "software": "Mobile 3D Video Slot by Play'nGo"}
+{"jackpot": "15,000 Coins", "title": "Victorious Slot Review", "bonus": "25 Free Spins / 3X Multiplier", "coins_range": "0.01 - 0.50", "volatility": "Low", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "150,000 Coins", "title": "Thunderstruck Slot Review", "bonus": "15 Free Spins / 3X Multiplier", "coins_range": "0.18 - 90.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 9 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "5 Reels / 20 Paylines", "title": "Myth Slot Review", "coins_range": "15 Free Spins / 3X Mulitplier", "software": "Mobile Video Slot by Play'nGo", "slot_reels": "0.01 to 5.00", "volatility": "5,000 Coins"}
+{"jackpot": "121,500 in cash", "title": "Playboy Slot Review", "bonus": "Wilds, Scatters & 4 Free Spin Rounds", "coins_range": "0.01 - 0.10", "volatility": "Medium", "slot_reels": "5 Reels / 243 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "100,000 Coins", "title": "Subtopia Slot Review", "bonus": "Varied amount of Free Spins / Up to 6X Multiplier", "coins_range": "0.01 - 0.50", "volatility": "Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "560,000 Coins", "title": "Loaded Slot Review", "bonus": "26 Free Spins / No Multiplier", "coins_range": "0.01 - 0.25", "volatility": "Low/Medium", "slot_reels": "5 Reels / 25 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "75,000 Coins", "title": "Flowers Slot Review", "bonus": "30 Free Spins / 10X Multiplier", "coins_range": "0.01 - 75.00", "volatility": "Medium/High", "slot_reels": "5 Reels / 30 Paylines", "software": "Mobile Video Slot by NetEnt"}
+{"jackpot": "2,500 Coins", "title": "Boomanji Slot Review", "coins_range": "3 Free Spins / No Multipliers", "software": "Mobile Video Slot by BetSoft", "slot_reels": "5 Reels / 10 Paylines", "volatility": "0.02 - 50.00"}
+{"jackpot": "6,000,000 Coins", "title": "Cashapillar Slot Review", "bonus": "Wilds, Scatters, Free Spins and Gamble Feature", "coins_range": "0.01 - 0.02", "volatility": "Low/Medium", "slot_reels": "5 Reels / 100 Paylines", "software": "Mobile Video Slot by Microgaming"}
+{"jackpot": "25, 000, 000 Coins", "title": "Cleopatra Slot Review", "bonus": "1 Bonus Round", "coins_range": "0.01 - 10.00", "volatility": "Low/Medium", "slot_reels": "5 Reels / 20 Paylines", "software": "Mobile Video Slot by IGT"}

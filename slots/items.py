@@ -10,7 +10,11 @@ import scrapy
 
 class SlotsItem(scrapy.Item):
     # define the fields for your item here like:
-    released = scrapy.Field()
-    slot_type = scrapy.Field()
-    house_edge = scrapy.Field()
+    title = scrapy.Field()
+    software = scrapy.Field()
+    slot_reels = scrapy.Field()
+    volatility = scrapy.Field()
+    coins_range = scrapy.Field()
+    jackpot = scrapy.Field()
+    bonus = scrapy.Field()
     pass
